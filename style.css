@@ -1,0 +1,41 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px;
+}
+
+.search-container {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+#search {
+    width: 300px; /* Aumenta el ancho del campo de búsqueda */
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.search-container i {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #aaa; /* Color del ícono */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
