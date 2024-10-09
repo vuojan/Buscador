@@ -5,11 +5,16 @@
     <title>Tabla de Datos</title>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
 
     <h1>Datos del Comercios</h1>
-    <input type="text" id="search" placeholder="Buscar...">
+    <div class="search-container">
+        <input type="text" id="search" placeholder="Buscar...">
+        <i class="fas fa-search"></i>
+    </div>
     <table id="data-table">
         <thead>
             <tr>
@@ -25,6 +30,15 @@
     </table>
 
     <script src="script.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('service-worker.js')
+                    .then(reg => console.log('Service Worker registrado', reg))
+                    .catch(err => console.log('Error al registrar el Service Worker', err));
+            });
+        }
+    </script>
 
 </body>
 </html>

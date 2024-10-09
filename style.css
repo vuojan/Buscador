@@ -5,12 +5,13 @@ body {
 
 .search-container {
     position: relative;
+    display: inline-block; /* Asegura que el contenedor se ajuste al tamaño del input */
     margin-bottom: 20px;
 }
 
 #search {
     width: 300px; /* Aumenta el ancho del campo de búsqueda */
-    padding: 10px;
+    padding: 10px 40px 10px 10px; /* Añade espacio a la derecha para el ícono */
     border: 1px solid #ddd;
     border-radius: 5px;
     font-size: 16px;
@@ -18,10 +19,11 @@ body {
 
 .search-container i {
     position: absolute;
-    left: 10px;
+    right: 10px; /* Mueve el ícono a la derecha */
     top: 50%;
     transform: translateY(-50%);
     color: #aaa; /* Color del ícono */
+    font-size: 16px; /* Tamaño del ícono */
 }
 
 table {
