@@ -1,7 +1,7 @@
 const CACHE_NAME = 'v1';
 const CACHE_ASSETS = [
     'index.html',
-    'styles.css',
+    'style.css',
     'script.js',
     'data.json',
     'manifest.json',
