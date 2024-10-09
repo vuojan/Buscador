@@ -5,8 +5,8 @@ const CACHE_ASSETS = [
     'script.js',
     'data.json',
     'manifest.json',
-    'icon-192x192.png',
-    'icon-512x512.png'
+    'icon192.png',
+    'icon512.png'
 ];
 
 // Instalación del Service Worker
