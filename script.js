@@ -1,3 +1,4 @@
+document.addEventListener('DOMContentLoaded', () => {
 fetch('data.json')
     .then(response => response.json())
     .then(data => {
@@ -23,12 +24,17 @@ fetch('data.json')
         // Añadir el evento de búsqueda
         const searchInput = document.getElementById('search');
         searchInput.addEventListener('input', () => {
+            console.log("asd")
             const query = searchInput.value.toLowerCase();
             const filteredData = data.filter(item => 
                 item.Nombre.toLowerCase().includes(query) ||
-                item.Direccion.toLowerCase().includes(query)
+                item.Direccion.toLowerCase().includes(query) ||
+                (item['Cta. N°'] && item['Cta. N°'].toString().toLowerCase().includes(query)) ||
+                (item['Nombre de fantasia'] && item['Nombre de fantasia'].toLowerCase().includes(query))
+
             );
+            
             renderTable(filteredData);
         });
     })
-    .catch(error => console.error('Error al cargar el JSON:', error));
+    .catch(error => console.error('Error al cargar el JSON:', error));})

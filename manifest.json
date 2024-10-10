@@ -1,7 +1,8 @@
 {
     "name": "Buscador de Comercios",
     "short_name": "Buscador",
-    "start_url": "./index.html",
+    "start_url": "index.html",
+    "scope": "./",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#6200ea",
@@ -9,12 +10,12 @@
     "icons": [
       {
         "src": "icon192.png",
-        "sizes": "192x175",
+        "sizes": "192x192",
         "type": "image/png"
       },
       {
         "src": "icon512.png",
-        "sizes": "512x469",
+        "sizes": "512x512",
         "type": "image/png"
       }
     ]
