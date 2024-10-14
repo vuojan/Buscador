@@ -1,1478 +1,1388 @@
 [
-    {
-      "Cta. N°": 964019,
-      "Nombre": "CAFETERA BONAFIDE",
-      "Direccion": "SARMIENTO 102",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 44327,
-      "Nombre": "ELECTRODOMESTICOS GARBARINO",
-      "Direccion": "SAN MARTIN 1252",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 964018,
-      "Nombre": "ESTACIÓN DE SERVICIO A.C.A.",
-      "Direccion": "AMIGORENA 25",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 10907,
-      "Nombre": "VACUNATORIO CIPPI",
-      "Direccion": "COLON 284 resolucion baja",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 79340,
-      "Nombre": "CASAMAGNA",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 79607,
-      "Nombre": "ALIMENTOS DEL OESTE SRL",
-      "Direccion": "COLÓN 248",
-      "Nombre de fantasia": "MOSTAZA"
-    },
-    {
-      "Cta. N°": 79437,
-      "Nombre": "TAMJUPAI SAS",
-      "Direccion": "ARISTIDES 180",
-      "Nombre de fantasia": "ARISTOPIA"
-    },
-    {
-      "Cta. N°": 77766,
-      "Nombre": "E.L. ALTO PIQUILLIN SAS",
-      "Direccion": "SARMIENTO 755",
-      "Nombre de fantasia": "ASADITO"
-    },
-    {
-      "Cta. N°": 22590,
-      "Nombre": "BANCO BBVA FRANCES",
-      "Direccion": "SAN MARTIN 936",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 977,
-      "Nombre": "BANCO DE LA NACION ARGENTINA",
-      "Direccion": "NECOCHEA 101",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 44646,
-      "Nombre": "BANCO SUPERVIELLE",
-      "Direccion": "LAS HERAS 452",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 7992,
-      "Nombre": "BANCO SUPERVIELLE",
-      "Direccion": "SAN MARTIN 841",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 69607,
-      "Nombre": "BAR LATINA",
-      "Direccion": "ARISTIDES VILLANUEVA  245",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 78511,
-      "Nombre": "GLOBAL VIEW SA",
-      "Direccion": "SAN LORENZO 545",
-      "Nombre de fantasia": "BENDITO RUFIAN/OMOI SUSHI"
-    },
-    {
-      "Cta. N°": 77377,
-      "Nombre": "BLEND SUSHI BURGER",
-      "Direccion": "San Lorenzo 348",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 70236,
-      "Nombre": "BLUE KINDER",
-      "Direccion": "PERU 611",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 69800,
-      "Nombre": "BONITO",
-      "Direccion": "ESPAŃA 506",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 79604,
-      "Nombre": "BRODA SA",
-      "Direccion": "CARLOS THAYS S/N PARQUE GRAL SAN MARTÍN",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 79312,
-      "Nombre": "BRUTAL",
-      "Direccion": "ROQUE SAENZ PEÑA 686",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 79340,
-      "Nombre": "CASAMAGNA",
-      "Direccion": "25 DE MAYO 2598 /2798",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 73695,
-      "Nombre": "CENTRO INTEGRAL DERMATOLOGIC DHERMA SALUD",
-      "Direccion": "AV. ESPAÑA 780",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 56034,
-      "Nombre": "CENTRO INTEGRAL NEFROLOGICO SA",
-      "Direccion": "PERU 935",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 78085,
-      "Nombre": "CHACHINGO DALVIAN",
-      "Direccion": "CERRO CRISTO 29 B° DALVIAN",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 31590,
-      "Nombre": "COMERCIAL ARGON",
-      "Direccion": "PERU 1310",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 14394,
-      "Nombre": "CONS. EDIFICIO CALLE 9 DE JULIO 780",
-      "Direccion": "9 DE JULIO 780",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 9086,
-      "Nombre": "CONS. PROP. EDIFICIO",
-      "Direccion": "ESPAŃA 866",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 78601,
-      "Nombre": "CONSORCIO EDIFICIO H",
-      "Direccion": "FRANCISCO MOYANO N.º 1551",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": "",
-      "Nombre": "CONSORCIO GRAND BOULOGNE",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 79640,
-      "Nombre": "CONSORCIO PROP. EDIFICIO C CÍVICO",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 79278,
-      "Nombre": "CONSORCIO VILLAGIO",
-      "Direccion": "MONTEVIDEO 456",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 50697,
-      "Nombre": "Portal Plaza Suites DANUBIO",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 79301,
-      "Nombre": "DESTINO MZA S.A.S",
-      "Direccion": "PUEYRREDON 144",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 65931,
-      "Nombre": "DON CLAUDIO",
-      "Direccion": "PERU 1695",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": "",
-      "Nombre": "EDIFICIO QUINTA PARK",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 79208,
-      "Nombre": "ERICKA",
-      "Direccion": "GENERAL PAZ 133",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 69435,
-      "Nombre": "FUENTE Y FONDA",
-      "Direccion": "MONTEVIDEO 675",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 16230,
-      "Nombre": "HOTEL AGUA DEL CORRAL",
-      "Direccion": "AMIGORENA 12",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 66683,
-      "Nombre": "HOTEL CORDON DEL PLATA",
-      "Direccion": "9 DE JULIO 1539",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 75325,
-      "Nombre": "IPANEMA",
-      "Direccion": "GODOY CRUZ 147",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 77507,
-      "Nombre": "JUSTINATA SAS",
-      "Direccion": "",
-      "Nombre de fantasia": "LOS PANCHO VILLA"
-    },
-    {
-      "Cta. N°": 76138,
-      "Nombre": "KIALO S.A.S",
-      "Direccion": "SARMIENTO 785",
-      "Nombre de fantasia": "Parrilla la pasión"
-    },
-    {
-      "Cta. N°": 78606,
-      "Nombre": "LA BRUNCHERIA",
-      "Direccion": "PATRICIAS MENDOCINAS 844",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 79611,
-      "Nombre": "LA CASA DEL STANDUP",
-      "Direccion": "PEDRO MOLINA 221",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 73981,
-      "Nombre": "LA LUCIA",
-      "Direccion": "SARMIENTO 658",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 76526,
-      "Nombre": "LA PIZZA GASTRONOMIA RONIE",
-      "Direccion": "SARMIENTO 775",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 76467,
-      "Nombre": "LA SALA MARIDAJES BUENAVIDA EMPREND.",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 78137,
-      "Nombre": "MIXTURA PERUANA",
-      "Direccion": "JUAN B. JUSTO 351",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 72018,
-      "Nombre": "NITZA FOREVER",
-      "Direccion": "REMEDIOS DE ESCALADA 2253",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 59855,
-      "Nombre": "OBALLES",
-      "Direccion": "ALBERDI 143",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 78888,
-      "Nombre": "PASION GOURMET(SOBERANA)",
-      "Direccion": "SARMIENTO 705",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 44355,
-      "Nombre": "PEATONAL PERSA",
-      "Direccion": "GENERAL PAZ 237",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 78542,
-      "Nombre": "",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 78663,
-      "Nombre": "",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 70747,
-      "Nombre": "",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 79436,
-      "Nombre": "",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 72567,
-      "Nombre": "RUCULA Y TOMATITO",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 71926,
-      "Nombre": "SABOR NORTEŃO",
-      "Direccion": "REMEDIOS DE ESCALADA Nº2093",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 77537,
-      "Nombre": "SABORETTO",
-      "Direccion": "SAN LORENZO N°11",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74190,
-      "Nombre": "STARBUCKS",
-      "Direccion": "MONTEVIDEO 230",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 56613,
-      "Nombre": "SUPERMERCADO CARREFOUR",
-      "Direccion": "COLON 324",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 56789,
-      "Nombre": "SUPERMERCADO CARREFOUR",
-      "Direccion": "LAS HERAS 316",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 77031,
-      "Nombre": "TABERNA DE MOE",
-      "Direccion": "ARISTIDES VILLANUEVA Nº 191",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 77496,
-      "Nombre": "TUTSY PIZZA",
-      "Direccion": "COLON 502",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 78372,
-      "Nombre": "ALMACEN DE PIZZAS",
-      "Direccion": "ARISTIDES VILLANUEVA Nº 175",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 78159,
-      "Nombre": "ANGOLO DOLCE",
-      "Direccion": "AVELLANEDA 297",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 58093,
-      "Nombre": "AZAFRAN",
-      "Direccion": "SARMIENTO 765",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 72863,
-      "Nombre": "SUPER 99 SAS",
-      "Direccion": "SARMIENTO 30",
-      "Nombre de fantasia": "AZUFRE"
-    },
-    {
-      "Cta. N°": "",
-      "Nombre": "BELGRANO CARGAS",
-      "Direccion": "TIBURCIO BENEGAS 1799",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 77240,
-      "Nombre": "BODEGÓN PIZERO",
-      "Direccion": "ARISTIDES VILLANUEVA 294",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 75263,
-      "Nombre": "BOULANGERIE PANADERÍA",
-      "Direccion": "JUAN B. JUSTO 611",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 44119,
-      "Nombre": "FABRICA DE TRIPLE IMPACTO SA CENTAURO",
-      "Direccion": "PERU 1156",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 75690,
-      "Nombre": "CRAFT BEER S.A",
-      "Direccion": "ARISTIDES VILLANUEVA 387",
-      "Nombre de fantasia": "CHACHINGO"
-    },
-    {
-      "Cta. N°": 79517,
-      "Nombre": "CJ RESTO BAR",
-      "Direccion": "REMEDIOS DE ESCALADA 2355",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 59223,
-      "Nombre": "CLINICA DE CUYO",
-      "Direccion": "JOSE VICENTE ZAPATA 63",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 72954,
-      "Nombre": "EL ASADITO",
-      "Direccion": "JUAN B JUSTO 522",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 3989,
-      "Nombre": "HOTEL CERVANTES",
-      "Direccion": "AMIGORENA 65",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 981589,
-      "Nombre": "HOTEL PUERTA DEL SOL",
-      "Direccion": "GARIBALDI 82",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 79663,
-      "Nombre": "INSTITUTO SAN LUIS GONZAGA",
-      "Direccion": "9 DE JULIO 747",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": "",
-      "Nombre": "JERAL MOSTAZA S.A.S",
-      "Direccion": "SAN MARTIN 199",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 24450,
-      "Nombre": "LA CABAÑA",
-      "Direccion": "SAN MARTIN 2624",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 77392,
-      "Nombre": "LA CENTRAL",
-      "Direccion": "MITRE 794",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 79270,
-      "Nombre": "MINISTERIO PUBLICO FISCAL DE MENDOZA",
-      "Direccion": "ATAHUALPA YUPANQUI 800",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 49258,
-      "Nombre": "MIRAFLORES",
-      "Direccion": "ESPAÑA 1159",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 77403,
-      "Nombre": "MODESTO CIVIT",
-      "Direccion": "GRANADEROS 1093",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74762,
-      "Nombre": "ONDA LIBRE",
-      "Direccion": "LAS HERAS 446",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 78763,
-      "Nombre": "PALOMA ATELIER SAS",
-      "Direccion": "ARISTIDES VILLANUEVA 641",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 77476,
-      "Nombre": "PAPANATO",
-      "Direccion": "ARISTIDES VILLANUEVA 386",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 77203,
-      "Nombre": "ASIAN FOOD SAS",
-      "Direccion": "BELGRANO 1194",
-      "Nombre de fantasia": "PEZ GLOBO"
-    },
-    {
-      "Cta. N°": 76808,
-      "Nombre": "REPUBLICA BISTRO",
-      "Direccion": "ARISTIDES VILLANUEVA 373",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 76703,
-      "Nombre": "ROMANO MARISOL CRAZY COOK",
-      "Direccion": "REMEDIOS DE ESCALADA 2097",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 77689,
-      "Nombre": "SHELTER BONITO",
-      "Direccion": "BELGRANO 707",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74190,
-      "Nombre": "STARBUCKS",
-      "Direccion": "MONTEVIDEO 230",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 79446,
-      "Nombre": "DA.MAS SAS",
-      "Direccion": "9 DE JULIO 917",
-      "Nombre de fantasia": "SUBWAY"
-    },
-    {
-      "Cta. N°": "",
-      "Nombre": "CONSORCIO DE PROPIETARIOS TORRE LELOIR",
-      "Direccion": "O. V. ANDRADE 462",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74615,
-      "Nombre": "UNIVERSIDAD NAC. CUYO CW",
-      "Direccion": "LENCINAS 1300",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 69615,
-      "Nombre": "William browm",
-      "Direccion": "ARISTIDES VILLANUEVA 301",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 47356,
-      "Nombre": "BANCO NACION",
-      "Direccion": "ESPAÑA 1275",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 34906,
-      "Nombre": "Estación de Servicio Shell",
-      "Direccion": "MITRE 1802",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 44119,
-      "Nombre": "BANCO HSBC",
-      "Direccion": "ESPEJO 131",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 44599,
-      "Nombre": "BANCO ICBC INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) SAU",
-      "Direccion": "COLON 385",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 1327,
-      "Nombre": "BANCO MACRO SA",
-      "Direccion": "9 DE JULIO 1401",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 977,
-      "Nombre": "BANCO NACION ARGENTINA",
-      "Direccion": "NECOCHEA 101",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 1984,
-      "Nombre": "BANCO PATAGONIA",
-      "Direccion": "GUTIERREZ 72",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 47082,
-      "Nombre": "BANCO SUPERVIELLE",
-      "Direccion": "9 DE JULIO 1265",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 77689,
-      "Nombre": "BONITO",
-      "Direccion": "BELGRANO 707",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 62662,
-      "Nombre": "CAFETERIA HAVANNA",
-      "Direccion": "SARMIENTO 68",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74597,
-      "Nombre": "CLINICA STA MARIA",
-      "Direccion": "FEDERICO MORENO 1519",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74619,
-      "Nombre": "COLEGIO SAN BUENAVE NTURA",
-      "Direccion": "PATRICIAS MENDOCINAS 1475",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 79240,
-      "Nombre": "CONSORCIO 25 DE MAYO \"TORRE LAUREANA",
-      "Direccion": "25 DE MAYO 1229",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": "SN°",
-      "Nombre": "CONSORCIO EDIF",
-      "Direccion": "MONTEVIDEO 127",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 2463,
-      "Nombre": "CONSORCIO EDIFICIO",
-      "Direccion": "SAN JUAN 790",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 9546,
-      "Nombre": "COOP DE LUZ Y FUERZA DE CRED Y CONSUMO LTDA HOTEL PUERTA DEL SOL",
-      "Direccion": "GARIBALDI 82",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 44412,
-      "Nombre": "CORREO ARGENTINO",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 30174,
-      "Nombre": "ELECTRODOMESTICOS FRAVEGA",
-      "Direccion": "ESPAÑA 1560",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 66146,
-      "Nombre": "ELECTRODOMESTICOS RED MEGATONE",
-      "Direccion": "SAN MARTIN 1335",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 48023,
-      "Nombre": "ELECTRODOMESTICOS RED MEGATONE",
-      "Direccion": "SAN MARTIN 1549",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74594,
-      "Nombre": "ENTE NACIONAL A.F.I. P.",
-      "Direccion": "GARIBALDI 18",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 42783,
-      "Nombre": "ENTE NACIONAL FU.ES.MEN.",
-      "Direccion": "GARIBALDI 405",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74595,
-      "Nombre": "ENTE PROVINCIAL O.S.E.P.",
-      "Direccion": "JOAQUIN V. ZAPATA 313",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74809,
-      "Nombre": "ENTE PROVINCIAL O.S.E.P.",
-      "Direccion": "PERU 1258",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 56929,
-      "Nombre": "ESTACION DE SERVICIO COPSA",
-      "Direccion": "SAN MARTIN 2002",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 44217,
-      "Nombre": "GALERÍA COMERCIAL PIAZZA",
-      "Direccion": "SAN MARTIN 1027",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74593,
-      "Nombre": "HOSP. CENTRAL L N",
-      "Direccion": "ALEM 450",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 73826,
-      "Nombre": "HOSPITAL PRIVADO CLINICO",
-      "Direccion": "PEDRO B. PALACIOS 1254",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 69873,
-      "Nombre": "HOSPITAL PRIVADO MENDOZA",
-      "Direccion": "MITRE 667",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 981475,
-      "Nombre": "HOTEL ACONCAGUA",
-      "Direccion": "SAN LORENZO 545",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 5843,
-      "Nombre": "HOTEL CRILLON",
-      "Direccion": "PERU 1065",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 69546,
-      "Nombre": "HOTEL DIPLOMATIC",
-      "Direccion": "BELGRANO 1041",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 63900,
-      "Nombre": "HOTEL EXECUTIVE PARK SUITES",
-      "Direccion": "SAN LORENZO 660",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 9669,
-      "Nombre": "HOTEL GRAN HOTEL MENDOZA",
-      "Direccion": "ESPAÑA 1210",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 63230,
-      "Nombre": "HOTEL HUENTALA",
-      "Direccion": "PRIMITIVO DE LA RETA 1007",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 56537,
-      "Nombre": "HOTEL NH CORDILLERA",
-      "Direccion": "ESPAÑA 1324",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 2257,
-      "Nombre": "HOTEL NUTIBARA",
-      "Direccion": "MITRE 867",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 6625,
-      "Nombre": "HOTEL SAN REMO",
-      "Direccion": "GODOY CRUZ 477",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 66081,
-      "Nombre": "HOTEL SHERATON MENDOZA",
-      "Direccion": "PRIMITIVO DE LA RETA 989",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 67315,
-      "Nombre": "HOTEL THE MODERN HOTELS",
-      "Direccion": "FEDERICO MORENO 1230",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 79663,
-      "Nombre": "INST. SAN LUIS GONZAGA",
-      "Direccion": "9 DE JULIO 747",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 56916,
-      "Nombre": "LA MARCHI SRL",
-      "Direccion": "PATRICIAS MENDOCINAS 1550",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": "",
-      "Nombre": "LA TOSCANA DE SIENA",
-      "Direccion": "SUIPACHA 571",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 20302,
-      "Nombre": "MERCADO CENTRAL",
-      "Direccion": "GRAL.PAZ 252",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 44355,
-      "Nombre": "MERCADO PERSA EL GIGANTE",
-      "Direccion": "GRAL.PAZ 237",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 50420,
-      "Nombre": "MUTUAL SOCIEDAD MILITAR",
-      "Direccion": "COLON 753",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 59386,
-      "Nombre": "OBRA SOCIAL O.S.V.V.R.A.",
-      "Direccion": "RIOJA 1571",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 50379,
-      "Nombre": "PARK HYATT",
-      "Direccion": "ESPEJO 566",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 71135,
-      "Nombre": "PENITENCIARIA B.SUR MER",
-      "Direccion": "N PLANTAMURA Nro: 0    N PLANTAMURA Y SAN FELIPE",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 78663,
-      "Nombre": "POLO JUDICIAL  PLANTA",
-      "Direccion": "MURA ESQUINA SAN FELIPE",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 78232,
-      "Nombre": "PICADA BOULE BAR",
-      "Direccion": "JUAN B JUSTO 584",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 76431,
-      "Nombre": "QSYO",
-      "Direccion": "SAN MARTIN N° 2268",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 72756,
-      "Nombre": "RESTAURANTE BURGER KING",
-      "Direccion": "SAN MARTIN 1371",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 37604,
-      "Nombre": "RESTAURANTE CARO PEPE",
-      "Direccion": "LAS HERAS 510",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 58873,
-      "Nombre": "RESTAURANTE DE UN RINCON DE LA BOCA",
-      "Direccion": "LAS HERAS 485",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 70768,
-      "Nombre": "RESTAURANTE DOCE COPAS",
-      "Direccion": "ESPEJO 501",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 43414,
-      "Nombre": "RESTAURANTE EL JARDIN DE POO",
-      "Direccion": "COLON 259/263",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 11358,
-      "Nombre": "RESTAURANTE EL MESON ESPANOL",
-      "Direccion": "MONTEVIDEO 244",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 62229,
-      "Nombre": "RESTAURANTE FRANCESCO",
-      "Direccion": "CHILE 1268",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 65955,
-      "Nombre": "RESTAURANTE ITAMAE SUSHI",
-      "Direccion": "MONTEVIDEO 708",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 73072,
-      "Nombre": "LUVIC SA KINGO",
-      "Direccion": "LAS HERAS 61",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 73072,
-      "Nombre": "RESTAURANTE KINGO",
-      "Direccion": "RIVADAVIA 285",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 50732,
-      "Nombre": "RESTAURANTE LA FLORENCIA",
-      "Direccion": "SARMIENTO 698",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74156,
-      "Nombre": "RESTAURANTE LAS TINAJAS",
-      "Direccion": "LAVALLE 38",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 47460,
-      "Nombre": "RESTAURANTE MAC DONALDS",
-      "Direccion": "LAS HERAS 301",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 42159,
-      "Nombre": "RESTAURANTE MAC DONALDS",
-      "Direccion": "SAN MARTIN 1177",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 69161,
-      "Nombre": "RESTAURANTE MANSO PANCHO",
-      "Direccion": "REMEDIOS DE ESCALADA 2297",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 61625,
-      "Nombre": "RESTAURANTE MONTECATINI",
-      "Direccion": "GRAL.PAZ 370",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 33677,
-      "Nombre": "RESTAURANTE MR DOG",
-      "Direccion": "GARIBALDI 47",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 69923,
-      "Nombre": "RESTAURANTE MR DOG",
-      "Direccion": "SAN MARTIN 1698",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 42983,
-      "Nombre": "RESTAURANTE MR DOG",
-      "Direccion": "BELGRANO 886",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 40344,
-      "Nombre": "RESTAURANTE MR.DOG",
-      "Direccion": "COLON 298",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 35725,
-      "Nombre": "RESTAURANTE MR.DOG",
-      "Direccion": "LAS HERAS 298",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 9856,
-      "Nombre": "RESTAURANTE PIZZERÍA CAPRI",
-      "Direccion": "LAVALLE 109",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 981652,
-      "Nombre": "RESTAURANTE SR.BUQUE",
-      "Direccion": "SARMIENTO 777",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 18129,
-      "Nombre": "RESTAURANTE TRENTO",
-      "Direccion": "LAVALLE 102",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 71608,
-      "Nombre": "RESTAURANTE ZITTO PIZZERÍA",
-      "Direccion": "SARMIENTO 11",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 59793,
-      "Nombre": "SEGUROS ORGANIZACIÓN LUIS MORENO",
-      "Direccion": "CHILE 1585",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 44410,
-      "Nombre": "SERVICIOS MEDICOS ASISTIR",
-      "Direccion": "SAN JUAN 871",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 71421,
-      "Nombre": "VEA",
-      "Direccion": "AV. CHAMPAGNAT  7 COLORES Nro: 2496 Bº DALVIAN",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 69615,
-      "Nombre": "WILLIAM BROWN",
-      "Direccion": "ARISTIDES VILLANUEVA 301",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74610,
-      "Nombre": "CONSORCIO EDIFICIO 9 DE JULIO",
-      "Direccion": "9 DE JULIO 780",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 77222,
-      "Nombre": "SEÑAL U",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 58470,
-      "Nombre": "INSTITUTO DE NEFROLOGIA Y HEMODIALISIS SRL",
-      "Direccion": "25 DE MAYO Nro: 760",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74599,
-      "Nombre": "BARRIO MILITAR GUARNICION MENDOZA",
-      "Direccion": "9 DE JULIO 550",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 16230,
-      "Nombre": "HOTEL NIVENTUS",
-      "Direccion": "AMIGORENA 36",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 3989,
-      "Nombre": "HOTEL CERVANTES",
-      "Direccion": "AMIGORENA 65",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 72586,
-      "Nombre": "LIMONERO SAS MAGNOLIA",
-      "Direccion": "ARISTIDES VILLANUEVA 165",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 78372,
-      "Nombre": "ALMACEN DE PIZZAS",
-      "Direccion": "ARISTIDES VILLANUEVA 175",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 77031,
-      "Nombre": "GECOBIN SAS",
-      "Direccion": "ARISTIDES VILLANUEVA 189",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 77240,
-      "Nombre": "SARATUNGA SRL",
-      "Direccion": "ARISTIDES VILLANUEVA 294",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 50765,
-      "Nombre": "BANCO BBVA ARGENTINA S.A.",
-      "Direccion": "ARISTIDES VILLANUEVA 309",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 72416,
-      "Nombre": "BANCO MACRO SA",
-      "Direccion": "ARISTIDES VILLANUEVA 337",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 76808,
-      "Nombre": "ORIGINAL WINERY SA  REPUBLICA",
-      "Direccion": "ARISTIDES VILLANUEVA 373",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 44956,
-      "Nombre": "BANCO DE GALICIA Y BUENOS AIRES SAU",
-      "Direccion": "ARISTIDES VILLANUEVA 380",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 72334,
-      "Nombre": "EL CLUB DE LA MILANESA SIN CULPAS SAS",
-      "Direccion": "ARISTIDES VILLANUEVA 405",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 1606,
-      "Nombre": "FERRUCCIO SOPPELSA SRL",
-      "Direccion": "AV EMILIO CIVIT 2",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 7342,
-      "Nombre": "CIRCULO DE OFICIALES DE LA POLICIA DE MENDOZA",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 56789,
-      "Nombre": "CARREFOUR",
-      "Direccion": "LAS HERAS 316",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 56829,
-      "Nombre": "CARREFOUR",
-      "Direccion": "JORGE A. CALLE 601",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 56828,
-      "Nombre": "CARREFOUR",
-      "Direccion": "SUIPACHA 556",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74598,
-      "Nombre": "GOBIERNO DE MENDOZA - DIRECCION DE ADULTOS MAYORES ( HOGAR SANTA MARTA)",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 71394,
-      "Nombre": "ROMAN, MAURICIO CEFERINO",
-      "Direccion": "BOULOGNE SUR MER 520 (MENDOZA TENIS CLUB)",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 66601,
-      "Nombre": "EL PATIO GRILL & WINES SAS",
-      "Direccion": "BOULOGNE SUR MER 788",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74601,
-      "Nombre": "LICEO MILITAR GENERAL ESPEJO",
-      "Direccion": "BOLOUGNE SUR MER 2136",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 39753,
-      "Nombre": "MELIS, GUILLERMO ORLANDO (LA CAMPANA)",
-      "Direccion": "BELGRANO 86",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74609,
-      "Nombre": "INSTITUTO NACIONAL DEL AGUA",
-      "Direccion": "BELGRANO 210",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 72141,
-      "Nombre": "AGUA Y SANEAMIENTO MENDOZA SA- AYSAM",
-      "Direccion": "BELGRANO 920",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 69450,
-      "Nombre": "SUSHI CLUB SAN JUAN FOOD SAS",
-      "Direccion": "BELGRANO 1112",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 65810,
-      "Nombre": "MENDOZA FUNDACIONAL SA",
-      "Direccion": "BELTRAN 634",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 633,
-      "Nombre": "LABEL SOLUTIONS SRLPALERO IMPRESORES",
-      "Direccion": "BRASIL 144",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 50379,
-      "Nombre": "NUEVO PLAZA HOTEL MENDOZA SA",
-      "Direccion": "CHILE 1124",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 65705,
-      "Nombre": "SOFIA YANG, SAN TE",
-      "Direccion": "COLON 259",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 47460,
-      "Nombre": "ARCOS MENDOCINOS S A MC DONALDS",
-      "Direccion": "LAS HERAS 301",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 45637,
-      "Nombre": "ARCOS MENDOCINOS S A MC DONALDS",
-      "Direccion": "COLON 385",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74612,
-      "Nombre": "DIRECCION PROVINCIAL DE VIALIDAD DE MENDOZA CW",
-      "Direccion": "LENCINAS S/N°",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74631,
-      "Nombre": "CW LENCINAS Nro: 0 UNC FUNDACION INST TECNOLOG UNIVERSITARIO",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 23916,
-      "Nombre": "CIRCULO SUBOF EJERC CW",
-      "Direccion": "LENCINAS 250",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 70768,
-      "Nombre": "12 COPAS SA",
-      "Direccion": "ESPEJO 501",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74602,
-      "Nombre": "HOSPITAL DR CARLOS PEREYRA",
-      "Direccion": "ITUZAINGO 2831",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 30025,
-      "Nombre": "QUEBEC SA MAC KENZIE",
-      "Direccion": "ITUZAINGO 2930",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 70998,
-      "Nombre": "CENCOSUD SA VEA",
-      "Direccion": "JORGE A. CALLE 897",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 42920,
-      "Nombre": "FUNDACION SAN ANDRES",
-      "Direccion": "JORGE A. ROCA 683",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 63827,
-      "Nombre": "ANNA BISTRO",
-      "Direccion": "JUAN B. JUSTO 161 C.J.C. S.A.",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 59760,
-      "Nombre": "PAN DE VIDA S.R.L.",
-      "Direccion": "JUJUY 41",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 64670,
-      "Nombre": "AMOBLAMIENTO SEVILLA SA",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 59404,
-      "Nombre": "DIMAGRAF SACIF",
-      "Direccion": "MONTECASEROS 1956",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 73453,
-      "Nombre": "ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS",
-      "Direccion": "MORON 27",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 8795,
-      "Nombre": "CIRCULO MEDICO DE MENDOZA",
-      "Direccion": "OLEGARIO V. ANDRADE 496",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 61545,
-      "Nombre": "OPERADORA DE ESTACIONES DE SERVICIO SA - OPESSA",
-      "Direccion": "PASO DE LOS ANDES 16",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 16492,
-      "Nombre": "SUPER VEA CENCOSUD SA",
-      "Direccion": "PASO DE LOS ANDES 82",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 45925,
-      "Nombre": "BANCO SANTANDER RIO SA",
-      "Direccion": "PASO DE LOS ANDES 757",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 72895,
-      "Nombre": "HOSPITAL UNIVERSITARIO",
-      "Direccion": "PASO DE LOS ANDES 3051",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 1652,
-      "Nombre": "CLUB MENDOZA DE REGATAS PARQUE Nro: 250",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 47388,
-      "Nombre": "CENCOSUD SA VEA",
-      "Direccion": "PATRICIAS MENDOCINAS 1730",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 35796,
-      "Nombre": "SANTA INES",
-      "Direccion": "PERU 2464",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 70665,
-      "Nombre": "CEMAC SA KINGO",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 3499,
-      "Nombre": "FALFER S.A.",
-      "Direccion": "SALTA 1753",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 75279,
-      "Nombre": "COCINAR SA",
-      "Direccion": "SAN MARTIN 195 Piso: PB Local: 01",
-      "Nombre de fantasia": "COMO EN CASA"
-    },
-    {
-      "Cta. N°": 12943,
-      "Nombre": "INSTITUTO NACIONAL DE VITIVINICULTURA GOBIERNO DE LA NACION",
-      "Direccion": "SAN MARTIN 430",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 50120,
-      "Nombre": "AUTOMOVIL CLUB ARGENTINO ACA",
-      "Direccion": "SAN MARTIN 985",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 71569,
-      "Nombre": "CONTADURIA GENERAL DEL EJERCITO  EDIFICIO JUAN LELIO - COMANDO BRIGADA MONTAÑA VIII",
-      "Direccion": "SARMIENTO 60",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 34466,
-      "Nombre": "CENCOSUD SA",
-      "Direccion": "SANTIAGO DEL ESTERO 25",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 28653,
-      "Nombre": "HOGAR DE REPOSO PARA ANCIANOS S.R.L.",
-      "Direccion": "SARGENTO CABRAL 368",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 63744,
-      "Nombre": "RESIDENCIA PRESTIGIO S A S",
-      "Direccion": "SOBREMONTE 545",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 700,
-      "Nombre": "TALLERES GRAFICOS SMOVIR LUIS ALBERTO SMOVIR ERNESTO ANTONIO SMOVIR EDUARDO ENR",
-      "Direccion": "SUIPACHA 299",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 56828,
-      "Nombre": "INC SA 06/04/2017",
-      "Direccion": "",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 65791,
-      "Nombre": "ALDO SRL",
-      "Direccion": "SUIPACHA 698",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 74600,
-      "Nombre": "HOSPITAL LUIS C LAGOMAGGIORE (MINISTERIO DE SALUD)",
-      "Direccion": "TIMOTEO GORDILLO Nro: 0",
-      "Nombre de fantasia": ""
-    },
-    {
-      "Cta. N°": 73921,
-      "Nombre": "MINISTERIO DE SALUD, DESARROLLO SOCIAL Y DEPORTES",
-      "Direccion": "VIDELA CASTILLO 2961",
-      "Nombre de fantasia": ""
-    }
-  ]
+  {
+    "cuentaNumero": 964019,
+    "nombre": "CAFETERA BONAFIDE",
+    "direccion": "SARMIENTO 102",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 44327,
+    "nombre": "ELECTRODOMESTICOS GARBARINO",
+    "direccion": "SAN MARTIN 1252",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 964018,
+    "nombre": "ESTACIÓN DE SERVICIO A.C.A.",
+    "direccion": "AMIGORENA 25",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 10907,
+    "nombre": "VACUNATORIO CIPPI",
+    "direccion": "COLON 284 resolucion baja",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 79607,
+    "nombre": "ALIMENTOS DEL OESTE SRL",
+    "direccion": "COLÓN 248",
+    "nombreComercial": "MOSTAZA"
+  },
+  {
+    "cuentaNumero": 79437,
+    "nombre": "TAMJUPAI SAS",
+    "direccion": "ARISTIDES 180",
+    "nombreComercial": "ARISTOPIA"
+  },
+  {
+    "cuentaNumero": 77766,
+    "nombre": "E.L. ALTO PIQUILLIN SAS",
+    "direccion": "SARMIENTO 755",
+    "nombreComercial": "ASADITO"
+  },
+  {
+    "cuentaNumero": 22590,
+    "nombre": "BANCO BBVA FRANCES",
+    "direccion": "SAN MARTIN 936",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 44646,
+    "nombre": "BANCO SUPERVIELLE",
+    "direccion": "LAS HERAS 452",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 7992,
+    "nombre": "BANCO SUPERVIELLE",
+    "direccion": "SAN MARTIN 841",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 69607,
+    "nombre": "BAR LATINA",
+    "direccion": "ARISTIDES VILLANUEVA  245",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 78511,
+    "nombre": "GLOBAL VIEW SA",
+    "direccion": "SAN LORENZO 545",
+    "nombreComercial": "BENDITO RUFIAN/OMOI SUSHI"
+  },
+  {
+    "cuentaNumero": 77377,
+    "nombre": "BLEND SUSHI BURGER",
+    "direccion": "San Lorenzo 348",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 70236,
+    "nombre": "BLUE KINDER",
+    "direccion": "PERU 611",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 69800,
+    "nombre": "BONITO",
+    "direccion": "ESPAŃA 506",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 79604,
+    "nombre": "BRODA SA",
+    "direccion": "CARLOS THAYS S/N PARQUE GRAL SAN MARTÍN",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 79312,
+    "nombre": "BRUTAL",
+    "direccion": "ROQUE SAENZ PEÑA 686",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 79340,
+    "nombre": "CASAMAGNA",
+    "direccion": "25 DE MAYO 2598 /2798",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 73695,
+    "nombre": "CENTRO INTEGRAL DERMATOLOGIC DHERMA SALUD",
+    "direccion": "AV. ESPAÑA 780",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 56034,
+    "nombre": "CENTRO INTEGRAL NEFROLOGICO SA",
+    "direccion": "PERU 935",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 78085,
+    "nombre": "CHACHINGO DALVIAN",
+    "direccion": "CERRO CRISTO 29 B° DALVIAN",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 31590,
+    "nombre": "COMERCIAL ARGON",
+    "direccion": "PERU 1310",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 14394,
+    "nombre": "CONS. EDIFICIO CALLE 9 DE JULIO 780",
+    "direccion": "9 DE JULIO 780",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 9086,
+    "nombre": "CONS. PROP. EDIFICIO",
+    "direccion": "ESPAŃA 866",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 78601,
+    "nombre": "CONSORCIO EDIFICIO H",
+    "direccion": "FRANCISCO MOYANO N.º 1551",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": "",
+    "nombre": "CONSORCIO GRAND BOULOGNE",
+    "direccion": "",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 79640,
+    "nombre": "CONSORCIO PROP. EDIFICIO C CÍVICO",
+    "direccion": "",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 79278,
+    "nombre": "CONSORCIO VILLAGIO",
+    "direccion": "MONTEVIDEO 456",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 50697,
+    "nombre": "Portal Plaza Suites DANUBIO",
+    "direccion": "",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 79301,
+    "nombre": "DESTINO MZA S.A.S",
+    "direccion": "PUEYRREDON 144",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 65931,
+    "nombre": "DON CLAUDIO",
+    "direccion": "PERU 1695",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 79847,
+    "nombre": "EDIFICIO QUINTA PARK",
+    "direccion": "",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 79208,
+    "nombre": "ERICKA",
+    "direccion": "GENERAL PAZ 133",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 69435,
+    "nombre": "FUENTE Y FONDA",
+    "direccion": "MONTEVIDEO 675",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 16230,
+    "nombre": "HOTEL AGUA DEL CORRAL",
+    "direccion": "AMIGORENA 12",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 66683,
+    "nombre": "HOTEL CORDON DEL PLATA",
+    "direccion": "9 DE JULIO 1539",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 75325,
+    "nombre": "IPANEMA",
+    "direccion": "GODOY CRUZ 147",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 77507,
+    "nombre": "JUSTINATA SAS",
+    "direccion": "",
+    "nombreComercial": "LOS PANCHO VILLA"
+  },
+  {
+    "cuentaNumero": 76138,
+    "nombre": "KIALO S.A.S",
+    "direccion": "SARMIENTO 785",
+    "nombreComercial": "PARRILLA LA PASION"
+  },
+  {
+    "cuentaNumero": 78606,
+    "nombre": "LA BRUNCHERIA",
+    "direccion": "PATRICIAS MENDOCINAS 844",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 79611,
+    "nombre": "LA CASA DEL STANDUP",
+    "direccion": "PEDRO MOLINA 221",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 73981,
+    "nombre": "LA LUCIA",
+    "direccion": "SARMIENTO 658",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 76526,
+    "nombre": "LA PIZZA GASTRONOMIA RONIE",
+    "direccion": "SARMIENTO 775",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 76467,
+    "nombre": "LA SALA MARIDAJES BUENAVIDA EMPREND.",
+    "direccion": "",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 78137,
+    "nombre": "MIXTURA PERUANA",
+    "direccion": "JUAN B. JUSTO 351",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 72018,
+    "nombre": "NITZA FOREVER",
+    "direccion": "REMEDIOS DE ESCALADA 2253",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 59855,
+    "nombre": "OBALLES",
+    "direccion": "ALBERDI 143",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 78888,
+    "nombre": "PASION GOURMET(SOBERANA)",
+    "direccion": "SARMIENTO 705",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 44355,
+    "nombre": "PEATONAL PERSA",
+    "direccion": "GENERAL PAZ 237",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 78542,
+    "nombre": "PIZZERIA POPULAR",
+    "direccion": "RIVADAVIA 694",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 70747,
+    "nombre": "RINCONCITO PERUANO",
+    "direccion": "GENERAL PAZ 133",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 79436,
+    "nombre": "LOS CORIOTOS SAS",
+    "direccion": "",
+    "nombreComercial": "ROSWELL"
+  },
+  {
+    "cuentaNumero": 72567,
+    "nombre": "RUCULA Y TOMATITO",
+    "direccion": "",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 71926,
+    "nombre": "SABOR NORTEŃO",
+    "direccion": "REMEDIOS DE ESCALADA 2093",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 77537,
+    "nombre": "SABORETTO",
+    "direccion": "SAN LORENZO 11",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 74190,
+    "nombre": "STARBUCKS",
+    "direccion": "MONTEVIDEO 230",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 56613,
+    "nombre": "SUPERMERCADO CARREFOUR",
+    "direccion": "COLON 324",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 77031,
+    "nombre": "TABERNA DE MOE",
+    "direccion": "ARISTIDES VILLANUEVA 191",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 77496,
+    "nombre": "TUTSY PIZZA",
+    "direccion": "COLON 502",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 78159,
+    "nombre": "ANGOLO DOLCE",
+    "direccion": "AVELLANEDA 297",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 58093,
+    "nombre": "AZAFRAN",
+    "direccion": "SARMIENTO 765",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 72863,
+    "nombre": "SUPER 99 SAS",
+    "direccion": "SARMIENTO 30",
+    "nombreComercial": "AZUFRE"
+  },
+  {
+    "cuentaNumero": "",
+    "nombre": "BELGRANO CARGAS",
+    "direccion": "TIBURCIO BENEGAS 1799",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 75263,
+    "nombre": "BOULANGERIE PANADERÍA",
+    "direccion": "JUAN B. JUSTO 611",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 79269,
+    "nombre": "FABRICA DE TRIPLE IMPACTO SA CENTAURO",
+    "direccion": "PERU 1156",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 75690,
+    "nombre": "CRAFT BEER S.A",
+    "direccion": "ARISTIDES VILLANUEVA 387",
+    "nombreComercial": "CHACHINGO"
+  },
+  {
+    "cuentaNumero": 79517,
+    "nombre": "CJ RESTO BAR",
+    "direccion": "REMEDIOS DE ESCALADA 2355",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 59223,
+    "nombre": "CLINICA DE CUYO",
+    "direccion": "JOSE VICENTE ZAPATA 63",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 72954,
+    "nombre": "EL ASADITO",
+    "direccion": "JUAN B JUSTO 522",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 981589,
+    "nombre": "HOTEL PUERTA DEL SOL",
+    "direccion": "GARIBALDI 82",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": "",
+    "nombre": "JERAL MOSTAZA S.A.S",
+    "direccion": "SAN MARTIN 199",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 24450,
+    "nombre": "LA CABAÑA",
+    "direccion": "SAN MARTIN 2624",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 77392,
+    "nombre": "LA CENTRAL",
+    "direccion": "MITRE 794",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 79270,
+    "nombre": "MINISTERIO PUBLICO FISCAL DE MENDOZA",
+    "direccion": "ATAHUALPA YUPANQUI 800",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 49258,
+    "nombre": "MIRAFLORES",
+    "direccion": "ESPAÑA 1159",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 77403,
+    "nombre": "MODESTO CIVIT",
+    "direccion": "GRANADEROS 1093",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 74762,
+    "nombre": "ONDA LIBRE",
+    "direccion": "LAS HERAS 446",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 78763,
+    "nombre": "PALOMA ATELIER SAS",
+    "direccion": "ARISTIDES VILLANUEVA 641",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 77476,
+    "nombre": "PAPANATO",
+    "direccion": "ARISTIDES VILLANUEVA 386",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 77203,
+    "nombre": "ASIAN FOOD SAS",
+    "direccion": "BELGRANO 1194",
+    "nombreComercial": "PEZ GLOBO"
+  },
+  {
+    "cuentaNumero": 76808,
+    "nombre": "REPUBLICA BISTRO",
+    "direccion": "ARISTIDES VILLANUEVA 373",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 76703,
+    "nombre": "ROMANO MARISOL CRAZY COOK",
+    "direccion": "REMEDIOS DE ESCALADA 2097",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 77689,
+    "nombre": "SHELTER BONITO",
+    "direccion": "BELGRANO 707",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 79446,
+    "nombre": "DA.MAS SAS",
+    "direccion": "9 DE JULIO 917",
+    "nombreComercial": "SUBWAY"
+  },
+  {
+    "cuentaNumero": 79848,
+    "nombre": "CONSORCIO DE PROPIETARIOS TORRE LELOIR",
+    "direccion": "O. V. ANDRADE 462",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 74615,
+    "nombre": "UNIVERSIDAD NAC. CUYO CW",
+    "direccion": "LENCINAS 1300",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 47356,
+    "nombre": "BANCO NACION",
+    "direccion": "ESPAÑA 1275",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 34906,
+    "nombre": "Estación de Servicio Shell",
+    "direccion": "MITRE 1802",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 44119,
+    "nombre": "BANCO HSBC",
+    "direccion": "ESPEJO 131",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 44599,
+    "nombre": "BANCO ICBC INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) SAU",
+    "direccion": "COLON 385",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 1327,
+    "nombre": "BANCO MACRO SA",
+    "direccion": "9 DE JULIO 1401",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 977,
+    "nombre": "BANCO NACION ARGENTINA",
+    "direccion": "NECOCHEA 101",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 1984,
+    "nombre": "BANCO PATAGONIA",
+    "direccion": "GUTIERREZ 72",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 47082,
+    "nombre": "BANCO SUPERVIELLE",
+    "direccion": "9 DE JULIO 1265",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 62662,
+    "nombre": "CAFETERIA HAVANNA",
+    "direccion": "SARMIENTO 68",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 74597,
+    "nombre": "CLINICA STA MARIA",
+    "direccion": "FEDERICO MORENO 1519",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 74619,
+    "nombre": "COLEGIO SAN BUENAVE NTURA",
+    "direccion": "PATRICIAS MENDOCINAS 1475",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 79240,
+    "nombre": "CONSORCIO 25 DE MAYO \"TORRE LAUREANA",
+    "direccion": "25 DE MAYO 1229",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": "SN°",
+    "nombre": "CONSORCIO EDIF",
+    "direccion": "MONTEVIDEO 127",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 2463,
+    "nombre": "CONSORCIO EDIFICIO",
+    "direccion": "SAN JUAN 790",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 9546,
+    "nombre": "COOP DE LUZ Y FUERZA DE CRED Y CONSUMO LTDA HOTEL PUERTA DEL SOL",
+    "direccion": "GARIBALDI 82",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 44412,
+    "nombre": "CORREO ARGENTINO",
+    "direccion": "",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 30174,
+    "nombre": "ELECTRODOMESTICOS FRAVEGA",
+    "direccion": "ESPAÑA 1560",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 66146,
+    "nombre": "ELECTRODOMESTICOS RED MEGATONE",
+    "direccion": "SAN MARTIN 1335",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 48023,
+    "nombre": "ELECTRODOMESTICOS RED MEGATONE",
+    "direccion": "SAN MARTIN 1549",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 74594,
+    "nombre": "ENTE NACIONAL A.F.I. P.",
+    "direccion": "GARIBALDI 18",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 42783,
+    "nombre": "ENTE NACIONAL FU.ES.MEN.",
+    "direccion": "GARIBALDI 405",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 74595,
+    "nombre": "ENTE PROVINCIAL O.S.E.P.",
+    "direccion": "JOAQUIN V. ZAPATA 313",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 74809,
+    "nombre": "ENTE PROVINCIAL O.S.E.P.",
+    "direccion": "PERU 1258",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 56929,
+    "nombre": "ESTACION DE SERVICIO COPSA",
+    "direccion": "SAN MARTIN 2002",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 44217,
+    "nombre": "GALERÍA COMERCIAL PIAZZA",
+    "direccion": "SAN MARTIN 1027",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 74593,
+    "nombre": "HOSP. CENTRAL L N",
+    "direccion": "ALEM 450",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 73826,
+    "nombre": "HOSPITAL PRIVADO CLINICO",
+    "direccion": "PEDRO B. PALACIOS 1254",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 69873,
+    "nombre": "HOSPITAL PRIVADO MENDOZA",
+    "direccion": "MITRE 667",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 17708,
+    "nombre": "HOTEL ACONCAGUA",
+    "direccion": "SAN LORENZO 545",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 5843,
+    "nombre": "HOTEL CRILLON",
+    "direccion": "PERU 1065",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 69546,
+    "nombre": "HOTEL DIPLOMATIC",
+    "direccion": "BELGRANO 1041",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 63900,
+    "nombre": "HOTEL EXECUTIVE PARK SUITES",
+    "direccion": "SAN LORENZO 660",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 9669,
+    "nombre": "HOTEL GRAN HOTEL MENDOZA",
+    "direccion": "ESPAÑA 1210",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 63230,
+    "nombre": "HOTEL HUENTALA",
+    "direccion": "PRIMITIVO DE LA RETA 1007",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 56537,
+    "nombre": "HOTEL NH CORDILLERA",
+    "direccion": "ESPAÑA 1324",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 2257,
+    "nombre": "HOTEL NUTIBARA",
+    "direccion": "MITRE 867",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 6625,
+    "nombre": "HOTEL SAN REMO",
+    "direccion": "GODOY CRUZ 477",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 66081,
+    "nombre": "HOTEL SHERATON MENDOZA",
+    "direccion": "PRIMITIVO DE LA RETA 989",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 67315,
+    "nombre": "HOTEL THE MODERN HOTELS",
+    "direccion": "FEDERICO MORENO 1230",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 79663,
+    "nombre": "INST. SAN LUIS GONZAGA",
+    "direccion": "9 DE JULIO 747",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 56916,
+    "nombre": "LA MARCHI SRL",
+    "direccion": "PATRICIAS MENDOCINAS 1550",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": "",
+    "nombre": "LA TOSCANA DE SIENA",
+    "direccion": "SUIPACHA 571",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 20302,
+    "nombre": "MERCADO CENTRAL",
+    "direccion": "GRAL.PAZ 252",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 50420,
+    "nombre": "MUTUAL SOCIEDAD MILITAR",
+    "direccion": "COLON 753",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 59386,
+    "nombre": "OBRA SOCIAL O.S.V.V.R.A.",
+    "direccion": "RIOJA 1571",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 50379,
+    "nombre": "PARK HYATT",
+    "direccion": "ESPEJO 566",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 71135,
+    "nombre": "PENITENCIARIA B.SUR MER",
+    "direccion": "N PLANTAMURA Nro: 0    N PLANTAMURA Y SAN FELIPE",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 78663,
+    "nombre": "POLO JUDICIAL  PLANTA",
+    "direccion": "MURA ESQUINA SAN FELIPE",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 78232,
+    "nombre": "PICADA BOULE BAR",
+    "direccion": "JUAN B JUSTO 584",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 76431,
+    "nombre": "QSYO",
+    "direccion": "SAN MARTIN N° 2268",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 72756,
+    "nombre": "RESTAURANTE BURGER KING",
+    "direccion": "SAN MARTIN 1371",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 37604,
+    "nombre": "RESTAURANTE CARO PEPE",
+    "direccion": "LAS HERAS 510",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 58873,
+    "nombre": "RESTAURANTE DE UN RINCON DE LA BOCA",
+    "direccion": "LAS HERAS 485",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 43414,
+    "nombre": "RESTAURANTE EL JARDIN DE POO",
+    "direccion": "COLON 259/263",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 11358,
+    "nombre": "RESTAURANTE EL MESON ESPANOL",
+    "direccion": "MONTEVIDEO 244",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 62229,
+    "nombre": "RESTAURANTE FRANCESCO",
+    "direccion": "CHILE 1268",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 65955,
+    "nombre": "RESTAURANTE ITAMAE SUSHI",
+    "direccion": "MONTEVIDEO 708",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 73072,
+    "nombre": "LUVIC SA KINGO",
+    "direccion": "LAS HERAS 61",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 73072,
+    "nombre": "RESTAURANTE KINGO",
+    "direccion": "RIVADAVIA 285",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 50732,
+    "nombre": "RESTAURANTE LA FLORENCIA",
+    "direccion": "SARMIENTO 698",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 74156,
+    "nombre": "RESTAURANTE LAS TINAJAS",
+    "direccion": "LAVALLE 38",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 42159,
+    "nombre": "RESTAURANTE MAC DONALDS",
+    "direccion": "SAN MARTIN 1177",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 69161,
+    "nombre": "RESTAURANTE MANSO PANCHO",
+    "direccion": "REMEDIOS DE ESCALADA 2297",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 61625,
+    "nombre": "RESTAURANTE MONTECATINI",
+    "direccion": "GRAL.PAZ 370",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 33677,
+    "nombre": "RESTAURANTE MR DOG",
+    "direccion": "GARIBALDI 47",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 69923,
+    "nombre": "RESTAURANTE MR DOG",
+    "direccion": "SAN MARTIN 1698",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 42983,
+    "nombre": "RESTAURANTE MR DOG",
+    "direccion": "BELGRANO 886",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 40344,
+    "nombre": "RESTAURANTE MR.DOG",
+    "direccion": "COLON 298",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 35725,
+    "nombre": "RESTAURANTE MR.DOG",
+    "direccion": "LAS HERAS 298",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 9856,
+    "nombre": "RESTAURANTE PIZZERÍA CAPRI",
+    "direccion": "LAVALLE 109",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 61153,
+    "nombre": "RESTAURANTE SR.BUQUE",
+    "direccion": "SARMIENTO 777",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 18129,
+    "nombre": "RESTAURANTE TRENTO",
+    "direccion": "LAVALLE 102",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 71608,
+    "nombre": "RESTAURANTE ZITTO PIZZERÍA",
+    "direccion": "SARMIENTO 11",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 59793,
+    "nombre": "SEGUROS ORGANIZACIÓN LUIS MORENO",
+    "direccion": "CHILE 1585",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 44410,
+    "nombre": "SERVICIOS MEDICOS ASISTIR",
+    "direccion": "SAN JUAN 871",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 71421,
+    "nombre": "VEA",
+    "direccion": "AV. CHAMPAGNAT  7 COLORES Nro: 2496 Bº DALVIAN",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 69615,
+    "nombre": "WILLIAM BROWN",
+    "direccion": "ARISTIDES VILLANUEVA 301",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 74610,
+    "nombre": "CONSORCIO EDIFICIO 9 DE JULIO",
+    "direccion": "9 DE JULIO 780",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 77222,
+    "nombre": "SEÑAL U",
+    "direccion": "",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 58470,
+    "nombre": "INSTITUTO DE NEFROLOGIA Y HEMODIALISIS SRL",
+    "direccion": "25 DE MAYO Nro: 760",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 74599,
+    "nombre": "BARRIO MILITAR GUARNICION MENDOZA",
+    "direccion": "9 DE JULIO 550",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 3989,
+    "nombre": "HOTEL CERVANTES",
+    "direccion": "AMIGORENA 65",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 72586,
+    "nombre": "LIMONERO SAS MAGNOLIA",
+    "direccion": "ARISTIDES VILLANUEVA 165",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 78372,
+    "nombre": "ALMACEN DE PIZZAS",
+    "direccion": "ARISTIDES VILLANUEVA 175",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 77031,
+    "nombre": "GECOBIN SAS",
+    "direccion": "ARISTIDES VILLANUEVA 189",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 77240,
+    "nombre": "SARATUNGA SRL",
+    "direccion": "ARISTIDES VILLANUEVA 294",
+    "nombreComercial": "BODEGÓN PIZERO"
+  },
+  {
+    "cuentaNumero": 50765,
+    "nombre": "BANCO BBVA ARGENTINA S.A.",
+    "direccion": "ARISTIDES VILLANUEVA 309",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 72416,
+    "nombre": "BANCO MACRO SA",
+    "direccion": "ARISTIDES VILLANUEVA 337",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 76808,
+    "nombre": "ORIGINAL WINERY SA  REPUBLICA",
+    "direccion": "ARISTIDES VILLANUEVA 373",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 44956,
+    "nombre": "BANCO DE GALICIA Y BUENOS AIRES SAU",
+    "direccion": "ARISTIDES VILLANUEVA 380",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 72334,
+    "nombre": "EL CLUB DE LA MILANESA SIN CULPAS SAS",
+    "direccion": "ARISTIDES VILLANUEVA 405",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 1606,
+    "nombre": "FERRUCCIO SOPPELSA SRL",
+    "direccion": "AV EMILIO CIVIT 2",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 7342,
+    "nombre": "CIRCULO DE OFICIALES DE LA POLICIA DE MENDOZA",
+    "direccion": "",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 56789,
+    "nombre": "CARREFOUR",
+    "direccion": "LAS HERAS 316",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 56829,
+    "nombre": "CARREFOUR",
+    "direccion": "JORGE A. CALLE 601",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 56828,
+    "nombre": "CARREFOUR",
+    "direccion": "SUIPACHA 556",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 74598,
+    "nombre": "GOBIERNO DE MENDOZA - DIRECCION DE ADULTOS MAYORES ( HOGAR SANTA MARTA)",
+    "direccion": "",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 71394,
+    "nombre": "ROMAN, MAURICIO CEFERINO",
+    "direccion": "BOULOGNE SUR MER 520 (MENDOZA TENIS CLUB)",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 66601,
+    "nombre": "EL PATIO GRILL & WINES SAS",
+    "direccion": "BOULOGNE SUR MER 788",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 74601,
+    "nombre": "LICEO MILITAR GENERAL ESPEJO",
+    "direccion": "BOLOUGNE SUR MER 2136",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 39753,
+    "nombre": "MELIS, GUILLERMO ORLANDO (LA CAMPANA)",
+    "direccion": "BELGRANO 86",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 74609,
+    "nombre": "INSTITUTO NACIONAL DEL AGUA",
+    "direccion": "BELGRANO 210",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 72141,
+    "nombre": "AGUA Y SANEAMIENTO MENDOZA SA- AYSAM",
+    "direccion": "BELGRANO 920",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 69450,
+    "nombre": "SUSHI CLUB SAN JUAN FOOD SAS",
+    "direccion": "BELGRANO 1112",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 65810,
+    "nombre": "MENDOZA FUNDACIONAL SA",
+    "direccion": "BELTRAN 634",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 633,
+    "nombre": "LABEL SOLUTIONS SRLPALERO IMPRESORES",
+    "direccion": "BRASIL 144",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 50379,
+    "nombre": "NUEVO PLAZA HOTEL MENDOZA SA",
+    "direccion": "CHILE 1124",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 65705,
+    "nombre": "SOFIA YANG, SAN TE",
+    "direccion": "COLON 259",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 47460,
+    "nombre": "ARCOS MENDOCINOS S A MC DONALDS",
+    "direccion": "LAS HERAS 301",
+    "nombreComercial": "RESTAURANTE MC DONALDS"
+  },
+  {
+    "cuentaNumero": 45637,
+    "nombre": "ARCOS MENDOCINOS S A MC DONALDS",
+    "direccion": "COLON 385",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 74612,
+    "nombre": "DIRECCION PROVINCIAL DE VIALIDAD DE MENDOZA CW",
+    "direccion": "LENCINAS S/N°",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 74631,
+    "nombre": "CW LENCINAS Nro: 0 UNC FUNDACION INST TECNOLOG UNIVERSITARIO",
+    "direccion": "",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 23916,
+    "nombre": "CIRCULO SUBOF EJERC CW",
+    "direccion": "LENCINAS 250",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 70768,
+    "nombre": "12 COPAS SA",
+    "direccion": "ESPEJO 501",
+    "nombreComercial": "RESTAURANTE DOCE COPAS"
+  },
+  {
+    "cuentaNumero": 74602,
+    "nombre": "HOSPITAL DR CARLOS PEREYRA",
+    "direccion": "ITUZAINGO 2831",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 30025,
+    "nombre": "QUEBEC SA MAC KENZIE",
+    "direccion": "ITUZAINGO 2930",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 70998,
+    "nombre": "CENCOSUD SA VEA",
+    "direccion": "JORGE A. CALLE 897",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 42920,
+    "nombre": "FUNDACION SAN ANDRES",
+    "direccion": "JORGE A. ROCA 683",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 63827,
+    "nombre": "ANNA BISTRO",
+    "direccion": "JUAN B. JUSTO 161 C.J.C. S.A.",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 59760,
+    "nombre": "PAN DE VIDA S.R.L.",
+    "direccion": "JUJUY 41",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 64670,
+    "nombre": "AMOBLAMIENTO SEVILLA SA",
+    "direccion": "",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 59404,
+    "nombre": "DIMAGRAF SACIF",
+    "direccion": "MONTECASEROS 1956",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 73453,
+    "nombre": "ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS",
+    "direccion": "MORON 27",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 8795,
+    "nombre": "CIRCULO MEDICO DE MENDOZA",
+    "direccion": "OLEGARIO V. ANDRADE 496",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 61545,
+    "nombre": "OPERADORA DE ESTACIONES DE SERVICIO SA - OPESSA",
+    "direccion": "PASO DE LOS ANDES 16",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 16492,
+    "nombre": "SUPER VEA CENCOSUD SA",
+    "direccion": "PASO DE LOS ANDES 82",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 45925,
+    "nombre": "BANCO SANTANDER RIO SA",
+    "direccion": "PASO DE LOS ANDES 757",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 72895,
+    "nombre": "HOSPITAL UNIVERSITARIO",
+    "direccion": "PASO DE LOS ANDES 3051",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 1652,
+    "nombre": "CLUB MENDOZA DE REGATAS PARQUE Nro: 250",
+    "direccion": "",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 47388,
+    "nombre": "CENCOSUD SA VEA",
+    "direccion": "PATRICIAS MENDOCINAS 1730",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 35796,
+    "nombre": "SANTA INES",
+    "direccion": "PERU 2464",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 70665,
+    "nombre": "CEMAC SA KINGO",
+    "direccion": "",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 3499,
+    "nombre": "FALFER S.A.",
+    "direccion": "SALTA 1753",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 75279,
+    "nombre": "COCINAR SA",
+    "direccion": "SAN MARTIN 195 Piso: PB Local: 01",
+    "nombreComercial": "COMO EN CASA"
+  },
+  {
+    "cuentaNumero": 12943,
+    "nombre": "INSTITUTO NACIONAL DE VITIVINICULTURA GOBIERNO DE LA NACION",
+    "direccion": "SAN MARTIN 430",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 50120,
+    "nombre": "AUTOMOVIL CLUB ARGENTINO ACA",
+    "direccion": "SAN MARTIN 985",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 71569,
+    "nombre": "CONTADURIA GENERAL DEL EJERCITO  EDIFICIO JUAN LELIO - COMANDO BRIGADA MONTAÑA VIII",
+    "direccion": "SARMIENTO 60",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 34466,
+    "nombre": "CENCOSUD SA",
+    "direccion": "SANTIAGO DEL ESTERO 25",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 28653,
+    "nombre": "HOGAR DE REPOSO PARA ANCIANOS S.R.L.",
+    "direccion": "SARGENTO CABRAL 368",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 63744,
+    "nombre": "RESIDENCIA PRESTIGIO S A S",
+    "direccion": "SOBREMONTE 545",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 700,
+    "nombre": "TALLERES GRAFICOS SMOVIR LUIS ALBERTO SMOVIR ERNESTO ANTONIO SMOVIR EDUARDO ENR",
+    "direccion": "SUIPACHA 299",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 56828,
+    "nombre": "INC SA 06/04/2017",
+    "direccion": "",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 65791,
+    "nombre": "ALDO SRL",
+    "direccion": "SUIPACHA 698",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 74600,
+    "nombre": "HOSPITAL LUIS C LAGOMAGGIORE (MINISTERIO DE SALUD)",
+    "direccion": "TIMOTEO GORDILLO Nro: 0",
+    "nombreComercial": ""
+  },
+  {
+    "cuentaNumero": 73921,
+    "nombre": "MINISTERIO DE SALUD, DESARROLLO SOCIAL Y DEPORTES",
+    "direccion": "VIDELA CASTILLO 2961",
+    "nombreComercial": ""
+  }
+]
