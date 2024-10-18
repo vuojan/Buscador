@@ -3,1386 +3,1610 @@
     "cuentaNumero": 964019,
     "nombre": "CAFETERA BONAFIDE",
     "direccion": "SARMIENTO 102",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": ""
   },
   {
     "cuentaNumero": 44327,
     "nombre": "ELECTRODOMESTICOS GARBARINO",
     "direccion": "SAN MARTIN 1252",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": ""
   },
   {
     "cuentaNumero": 964018,
     "nombre": "ESTACIÓN DE SERVICIO A.C.A.",
     "direccion": "AMIGORENA 25",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": ""
   },
   {
     "cuentaNumero": 10907,
     "nombre": "VACUNATORIO CIPPI",
     "direccion": "COLON 284 resolucion baja",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": ""
   },
   {
     "cuentaNumero": 79607,
     "nombre": "ALIMENTOS DEL OESTE SRL",
     "direccion": "COLÓN 248",
-    "nombreComercial": "MOSTAZA"
+    "nombreComercial": "MOSTAZA",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 79437,
     "nombre": "TAMJUPAI SAS",
     "direccion": "ARISTIDES 180",
-    "nombreComercial": "ARISTOPIA"
+    "nombreComercial": "ARISTOPIA",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 77766,
     "nombre": "E.L. ALTO PIQUILLIN SAS",
     "direccion": "SARMIENTO 755",
-    "nombreComercial": "ASADITO"
+    "nombreComercial": "ASADITO",
+    "horario": "MIXTO"
   },
   {
     "cuentaNumero": 22590,
     "nombre": "BANCO BBVA FRANCES",
     "direccion": "SAN MARTIN 936",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 44646,
     "nombre": "BANCO SUPERVIELLE",
     "direccion": "LAS HERAS 452",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 7992,
     "nombre": "BANCO SUPERVIELLE",
     "direccion": "SAN MARTIN 841",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 69607,
     "nombre": "BAR LATINA",
     "direccion": "ARISTIDES VILLANUEVA  245",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 78511,
     "nombre": "GLOBAL VIEW SA",
     "direccion": "SAN LORENZO 545",
-    "nombreComercial": "BENDITO RUFIAN/OMOI SUSHI"
+    "nombreComercial": "BENDITO RUFIAN/OMOI SUSHI",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 77377,
     "nombre": "BLEND SUSHI BURGER",
     "direccion": "San Lorenzo 348",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 70236,
     "nombre": "BLUE KINDER",
     "direccion": "PERU 611",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 69800,
     "nombre": "BONITO",
     "direccion": "ESPAŃA 506",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 79604,
     "nombre": "BRODA SA",
     "direccion": "CARLOS THAYS S/N PARQUE GRAL SAN MARTÍN",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 79312,
     "nombre": "BRUTAL",
     "direccion": "ROQUE SAENZ PEÑA 686",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "MIXTO"
   },
   {
     "cuentaNumero": 79340,
     "nombre": "CASAMAGNA",
     "direccion": "25 DE MAYO 2598 /2798",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": ""
   },
   {
     "cuentaNumero": 73695,
     "nombre": "CENTRO INTEGRAL DERMATOLOGIC DHERMA SALUD",
     "direccion": "AV. ESPAÑA 780",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 56034,
     "nombre": "CENTRO INTEGRAL NEFROLOGICO SA",
     "direccion": "PERU 935",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "MIXTO"
   },
   {
     "cuentaNumero": 78085,
     "nombre": "CHACHINGO DALVIAN",
     "direccion": "CERRO CRISTO 29 B° DALVIAN",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 31590,
     "nombre": "COMERCIAL ARGON",
     "direccion": "PERU 1310",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 14394,
     "nombre": "CONS. EDIFICIO CALLE 9 DE JULIO 780",
     "direccion": "9 DE JULIO 780",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 9086,
     "nombre": "CONS. PROP. EDIFICIO",
     "direccion": "ESPAŃA 866",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 78601,
     "nombre": "CONSORCIO EDIFICIO H",
     "direccion": "FRANCISCO MOYANO N.º 1551",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": "",
     "nombre": "CONSORCIO GRAND BOULOGNE",
     "direccion": "",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "#N/A"
   },
   {
     "cuentaNumero": 79640,
     "nombre": "CONSORCIO PROP. EDIFICIO C CÍVICO",
     "direccion": "",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 79278,
     "nombre": "CONSORCIO VILLAGIO",
     "direccion": "MONTEVIDEO 456",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 50697,
     "nombre": "Portal Plaza Suites DANUBIO",
     "direccion": "",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 79301,
     "nombre": "DESTINO MZA S.A.S",
     "direccion": "PUEYRREDON 144",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 65931,
     "nombre": "DON CLAUDIO",
     "direccion": "PERU 1695",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 79847,
     "nombre": "EDIFICIO QUINTA PARK",
     "direccion": "",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 79208,
     "nombre": "ERICKA",
     "direccion": "GENERAL PAZ 133",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 69435,
     "nombre": "FUENTE Y FONDA",
     "direccion": "MONTEVIDEO 675",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": ""
   },
   {
     "cuentaNumero": 16230,
     "nombre": "HOTEL AGUA DEL CORRAL",
     "direccion": "AMIGORENA 12",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 66683,
     "nombre": "HOTEL CORDON DEL PLATA",
     "direccion": "9 DE JULIO 1539",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 75325,
     "nombre": "IPANEMA",
     "direccion": "GODOY CRUZ 147",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 77507,
     "nombre": "JUSTINATA SAS",
     "direccion": "",
-    "nombreComercial": "LOS PANCHO VILLA"
+    "nombreComercial": "LOS PANCHO VILLA",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 76138,
     "nombre": "KIALO S.A.S",
     "direccion": "SARMIENTO 785",
-    "nombreComercial": "PARRILLA LA PASION"
+    "nombreComercial": "PARRILLA LA PASION",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 78606,
     "nombre": "LA BRUNCHERIA",
     "direccion": "PATRICIAS MENDOCINAS 844",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 79611,
     "nombre": "LA CASA DEL STANDUP",
     "direccion": "PEDRO MOLINA 221",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 73981,
     "nombre": "LA LUCIA",
     "direccion": "SARMIENTO 658",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 76526,
     "nombre": "LA PIZZA GASTRONOMIA RONIE",
     "direccion": "SARMIENTO 775",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 76467,
     "nombre": "LA SALA MARIDAJES BUENAVIDA EMPREND.",
     "direccion": "",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 78137,
     "nombre": "MIXTURA PERUANA",
     "direccion": "JUAN B. JUSTO 351",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 72018,
     "nombre": "NITZA FOREVER",
     "direccion": "REMEDIOS DE ESCALADA 2253",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 59855,
     "nombre": "OBALLES",
     "direccion": "ALBERDI 143",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 78888,
     "nombre": "PASION GOURMET(SOBERANA)",
     "direccion": "SARMIENTO 705",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "MIXTO"
   },
   {
     "cuentaNumero": 44355,
     "nombre": "PEATONAL PERSA",
     "direccion": "GENERAL PAZ 237",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 78542,
     "nombre": "PIZZERIA POPULAR",
     "direccion": "RIVADAVIA 694",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 70747,
     "nombre": "RINCONCITO PERUANO",
     "direccion": "GENERAL PAZ 133",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 79436,
     "nombre": "LOS CORIOTOS SAS",
     "direccion": "",
-    "nombreComercial": "ROSWELL"
+    "nombreComercial": "ROSWELL",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 72567,
     "nombre": "RUCULA Y TOMATITO",
     "direccion": "",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 71926,
     "nombre": "SABOR NORTEŃO",
     "direccion": "REMEDIOS DE ESCALADA 2093",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 77537,
     "nombre": "SABORETTO",
     "direccion": "SAN LORENZO 11",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 74190,
     "nombre": "STARBUCKS",
     "direccion": "MONTEVIDEO 230",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 56613,
     "nombre": "SUPERMERCADO CARREFOUR",
     "direccion": "COLON 324",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 77031,
     "nombre": "TABERNA DE MOE",
     "direccion": "ARISTIDES VILLANUEVA 191",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 77496,
     "nombre": "TUTSY PIZZA",
     "direccion": "COLON 502",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 78159,
     "nombre": "ANGOLO DOLCE",
     "direccion": "AVELLANEDA 297",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 58093,
     "nombre": "AZAFRAN",
     "direccion": "SARMIENTO 765",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 72863,
     "nombre": "SUPER 99 SAS",
     "direccion": "SARMIENTO 30",
-    "nombreComercial": "AZUFRE"
+    "nombreComercial": "AZUFRE",
+    "horario": "DH"
   },
   {
     "cuentaNumero": "",
     "nombre": "BELGRANO CARGAS",
     "direccion": "TIBURCIO BENEGAS 1799",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "#N/A"
   },
   {
     "cuentaNumero": 75263,
     "nombre": "BOULANGERIE PANADERÍA",
     "direccion": "JUAN B. JUSTO 611",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 79269,
     "nombre": "FABRICA DE TRIPLE IMPACTO SA CENTAURO",
     "direccion": "PERU 1156",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 75690,
     "nombre": "CRAFT BEER S.A",
     "direccion": "ARISTIDES VILLANUEVA 387",
-    "nombreComercial": "CHACHINGO"
+    "nombreComercial": "CHACHINGO",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 79517,
     "nombre": "CJ RESTO BAR",
     "direccion": "REMEDIOS DE ESCALADA 2355",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 59223,
     "nombre": "CLINICA DE CUYO",
     "direccion": "JOSE VICENTE ZAPATA 63",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 72954,
     "nombre": "EL ASADITO",
     "direccion": "JUAN B JUSTO 522",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
-    "cuentaNumero": 981589,
+    "cuentaNumero": 9546,
     "nombre": "HOTEL PUERTA DEL SOL",
     "direccion": "GARIBALDI 82",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
-    "cuentaNumero": "",
+    "cuentaNumero": 79825,
     "nombre": "JERAL MOSTAZA S.A.S",
-    "direccion": "SAN MARTIN 199",
-    "nombreComercial": ""
+    "direccion": "SAN MARTIN 1199",
+    "nombreComercial": "",
+    "horario": "MIXTO"
   },
   {
     "cuentaNumero": 24450,
     "nombre": "LA CABAÑA",
     "direccion": "SAN MARTIN 2624",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 77392,
     "nombre": "LA CENTRAL",
     "direccion": "MITRE 794",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 79270,
     "nombre": "MINISTERIO PUBLICO FISCAL DE MENDOZA",
     "direccion": "ATAHUALPA YUPANQUI 800",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 49258,
     "nombre": "MIRAFLORES",
     "direccion": "ESPAÑA 1159",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 77403,
     "nombre": "MODESTO CIVIT",
     "direccion": "GRANADEROS 1093",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "MIXTO"
   },
   {
     "cuentaNumero": 74762,
     "nombre": "ONDA LIBRE",
     "direccion": "LAS HERAS 446",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 78763,
     "nombre": "PALOMA ATELIER SAS",
     "direccion": "ARISTIDES VILLANUEVA 641",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 77476,
     "nombre": "PAPANATO",
     "direccion": "ARISTIDES VILLANUEVA 386",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 77203,
     "nombre": "ASIAN FOOD SAS",
     "direccion": "BELGRANO 1194",
-    "nombreComercial": "PEZ GLOBO"
+    "nombreComercial": "PEZ GLOBO",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 76808,
     "nombre": "REPUBLICA BISTRO",
     "direccion": "ARISTIDES VILLANUEVA 373",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 76703,
     "nombre": "ROMANO MARISOL CRAZY COOK",
     "direccion": "REMEDIOS DE ESCALADA 2097",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 77689,
     "nombre": "SHELTER BONITO",
     "direccion": "BELGRANO 707",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 79446,
     "nombre": "DA.MAS SAS",
     "direccion": "9 DE JULIO 917",
-    "nombreComercial": "SUBWAY"
+    "nombreComercial": "SUBWAY",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 79848,
     "nombre": "CONSORCIO DE PROPIETARIOS TORRE LELOIR",
     "direccion": "O. V. ANDRADE 462",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 74615,
     "nombre": "UNIVERSIDAD NAC. CUYO CW",
     "direccion": "LENCINAS 1300",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "MAYOR A 10 T"
   },
   {
     "cuentaNumero": 47356,
     "nombre": "BANCO NACION",
     "direccion": "ESPAÑA 1275",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 34906,
     "nombre": "Estación de Servicio Shell",
     "direccion": "MITRE 1802",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": ""
   },
   {
     "cuentaNumero": 44119,
     "nombre": "BANCO HSBC",
     "direccion": "ESPEJO 131",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": ""
   },
   {
     "cuentaNumero": 44599,
     "nombre": "BANCO ICBC INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) SAU",
     "direccion": "COLON 385",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 1327,
     "nombre": "BANCO MACRO SA",
     "direccion": "9 DE JULIO 1401",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 977,
     "nombre": "BANCO NACION ARGENTINA",
     "direccion": "NECOCHEA 101",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 1984,
     "nombre": "BANCO PATAGONIA",
     "direccion": "GUTIERREZ 72",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 47082,
     "nombre": "BANCO SUPERVIELLE",
     "direccion": "9 DE JULIO 1265",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 62662,
     "nombre": "CAFETERIA HAVANNA",
     "direccion": "SARMIENTO 68",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 74597,
     "nombre": "CLINICA STA MARIA",
     "direccion": "FEDERICO MORENO 1519",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "MAYOR A 10 T"
   },
   {
     "cuentaNumero": 74619,
     "nombre": "COLEGIO SAN BUENAVE NTURA",
     "direccion": "PATRICIAS MENDOCINAS 1475",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 79240,
     "nombre": "CONSORCIO 25 DE MAYO \"TORRE LAUREANA",
     "direccion": "25 DE MAYO 1229",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": "SN°",
     "nombre": "CONSORCIO EDIF",
     "direccion": "MONTEVIDEO 127",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": ""
   },
   {
     "cuentaNumero": 2463,
     "nombre": "CONSORCIO EDIFICIO",
     "direccion": "SAN JUAN 790",
-    "nombreComercial": ""
-  },
-  {
-    "cuentaNumero": 9546,
-    "nombre": "COOP DE LUZ Y FUERZA DE CRED Y CONSUMO LTDA HOTEL PUERTA DEL SOL",
-    "direccion": "GARIBALDI 82",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 44412,
     "nombre": "CORREO ARGENTINO",
     "direccion": "",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 30174,
     "nombre": "ELECTRODOMESTICOS FRAVEGA",
     "direccion": "ESPAÑA 1560",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 66146,
     "nombre": "ELECTRODOMESTICOS RED MEGATONE",
     "direccion": "SAN MARTIN 1335",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 48023,
     "nombre": "ELECTRODOMESTICOS RED MEGATONE",
     "direccion": "SAN MARTIN 1549",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 74594,
     "nombre": "ENTE NACIONAL A.F.I. P.",
     "direccion": "GARIBALDI 18",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 42783,
     "nombre": "ENTE NACIONAL FU.ES.MEN.",
     "direccion": "GARIBALDI 405",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 74595,
     "nombre": "ENTE PROVINCIAL O.S.E.P.",
     "direccion": "JOAQUIN V. ZAPATA 313",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 74809,
     "nombre": "ENTE PROVINCIAL O.S.E.P.",
     "direccion": "PERU 1258",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 56929,
     "nombre": "ESTACION DE SERVICIO COPSA",
     "direccion": "SAN MARTIN 2002",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 44217,
     "nombre": "GALERÍA COMERCIAL PIAZZA",
     "direccion": "SAN MARTIN 1027",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 74593,
     "nombre": "HOSP. CENTRAL L N",
     "direccion": "ALEM 450",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "MAYOR A 10 T"
   },
   {
     "cuentaNumero": 73826,
     "nombre": "HOSPITAL PRIVADO CLINICO",
     "direccion": "PEDRO B. PALACIOS 1254",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 69873,
     "nombre": "HOSPITAL PRIVADO MENDOZA",
     "direccion": "MITRE 667",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 17708,
     "nombre": "HOTEL ACONCAGUA",
     "direccion": "SAN LORENZO 545",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 5843,
     "nombre": "HOTEL CRILLON",
     "direccion": "PERU 1065",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 69546,
     "nombre": "HOTEL DIPLOMATIC",
     "direccion": "BELGRANO 1041",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 63900,
     "nombre": "HOTEL EXECUTIVE PARK SUITES",
     "direccion": "SAN LORENZO 660",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 9669,
     "nombre": "HOTEL GRAN HOTEL MENDOZA",
     "direccion": "ESPAÑA 1210",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 63230,
     "nombre": "HOTEL HUENTALA",
     "direccion": "PRIMITIVO DE LA RETA 1007",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 56537,
     "nombre": "HOTEL NH CORDILLERA",
     "direccion": "ESPAÑA 1324",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 2257,
     "nombre": "HOTEL NUTIBARA",
     "direccion": "MITRE 867",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 6625,
     "nombre": "HOTEL SAN REMO",
     "direccion": "GODOY CRUZ 477",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 66081,
     "nombre": "HOTEL SHERATON MENDOZA",
     "direccion": "PRIMITIVO DE LA RETA 989",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 67315,
     "nombre": "HOTEL THE MODERN HOTELS",
     "direccion": "FEDERICO MORENO 1230",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 79663,
     "nombre": "INST. SAN LUIS GONZAGA",
     "direccion": "9 DE JULIO 747",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 56916,
     "nombre": "LA MARCHI SRL",
     "direccion": "PATRICIAS MENDOCINAS 1550",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": "",
     "nombre": "LA TOSCANA DE SIENA",
     "direccion": "SUIPACHA 571",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "#N/A"
   },
   {
     "cuentaNumero": 20302,
     "nombre": "MERCADO CENTRAL",
     "direccion": "GRAL.PAZ 252",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "MAYOR A 10 T"
   },
   {
     "cuentaNumero": 50420,
     "nombre": "MUTUAL SOCIEDAD MILITAR",
     "direccion": "COLON 753",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 59386,
     "nombre": "OBRA SOCIAL O.S.V.V.R.A.",
     "direccion": "RIOJA 1571",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 50379,
     "nombre": "PARK HYATT",
     "direccion": "ESPEJO 566",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 71135,
     "nombre": "PENITENCIARIA B.SUR MER",
     "direccion": "N PLANTAMURA Nro: 0    N PLANTAMURA Y SAN FELIPE",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "MAYOR A 10 T"
   },
   {
     "cuentaNumero": 78663,
     "nombre": "POLO JUDICIAL  PLANTA",
     "direccion": "MURA ESQUINA SAN FELIPE",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 78232,
     "nombre": "PICADA BOULE BAR",
     "direccion": "JUAN B JUSTO 584",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 76431,
     "nombre": "QSYO",
     "direccion": "SAN MARTIN N° 2268",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 72756,
     "nombre": "RESTAURANTE BURGER KING",
     "direccion": "SAN MARTIN 1371",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 37604,
     "nombre": "RESTAURANTE CARO PEPE",
     "direccion": "LAS HERAS 510",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": ""
   },
   {
     "cuentaNumero": 58873,
     "nombre": "RESTAURANTE DE UN RINCON DE LA BOCA",
     "direccion": "LAS HERAS 485",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 43414,
     "nombre": "RESTAURANTE EL JARDIN DE POO",
     "direccion": "COLON 259/263",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": ""
   },
   {
     "cuentaNumero": 11358,
     "nombre": "RESTAURANTE EL MESON ESPANOL",
     "direccion": "MONTEVIDEO 244",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": ""
   },
   {
     "cuentaNumero": 62229,
     "nombre": "RESTAURANTE FRANCESCO",
     "direccion": "CHILE 1268",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 65955,
     "nombre": "RESTAURANTE ITAMAE SUSHI",
     "direccion": "MONTEVIDEO 708",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": ""
   },
   {
     "cuentaNumero": 73072,
     "nombre": "LUVIC SA KINGO",
     "direccion": "LAS HERAS 61",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 73072,
     "nombre": "RESTAURANTE KINGO",
     "direccion": "RIVADAVIA 285",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 50732,
     "nombre": "RESTAURANTE LA FLORENCIA",
     "direccion": "SARMIENTO 698",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 74156,
     "nombre": "RESTAURANTE LAS TINAJAS",
     "direccion": "LAVALLE 38",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": ""
   },
   {
     "cuentaNumero": 42159,
     "nombre": "RESTAURANTE MAC DONALDS",
     "direccion": "SAN MARTIN 1177",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 69161,
     "nombre": "RESTAURANTE MANSO PANCHO",
     "direccion": "REMEDIOS DE ESCALADA 2297",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 61625,
     "nombre": "RESTAURANTE MONTECATINI",
     "direccion": "GRAL.PAZ 370",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 33677,
     "nombre": "RESTAURANTE MR DOG",
     "direccion": "GARIBALDI 47",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 69923,
     "nombre": "RESTAURANTE MR DOG",
     "direccion": "SAN MARTIN 1698",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 42983,
     "nombre": "RESTAURANTE MR DOG",
     "direccion": "BELGRANO 886",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 40344,
     "nombre": "RESTAURANTE MR.DOG",
     "direccion": "COLON 298",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 35725,
     "nombre": "RESTAURANTE MR.DOG",
     "direccion": "LAS HERAS 298",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 9856,
     "nombre": "RESTAURANTE PIZZERÍA CAPRI",
     "direccion": "LAVALLE 109",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 61153,
     "nombre": "RESTAURANTE SR.BUQUE",
     "direccion": "SARMIENTO 777",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": ""
   },
   {
     "cuentaNumero": 18129,
     "nombre": "RESTAURANTE TRENTO",
     "direccion": "LAVALLE 102",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 71608,
     "nombre": "RESTAURANTE ZITTO PIZZERÍA",
     "direccion": "SARMIENTO 11",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "MIXTO"
   },
   {
     "cuentaNumero": 59793,
     "nombre": "SEGUROS ORGANIZACIÓN LUIS MORENO",
     "direccion": "CHILE 1585",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": ""
   },
   {
     "cuentaNumero": 44410,
     "nombre": "SERVICIOS MEDICOS ASISTIR",
     "direccion": "SAN JUAN 871",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 71421,
     "nombre": "VEA",
     "direccion": "AV. CHAMPAGNAT  7 COLORES Nro: 2496 Bº DALVIAN",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "MAYOR A 10 T"
   },
   {
     "cuentaNumero": 69615,
     "nombre": "WILLIAM BROWN",
     "direccion": "ARISTIDES VILLANUEVA 301",
-    "nombreComercial": ""
-  },
-  {
-    "cuentaNumero": 74610,
-    "nombre": "CONSORCIO EDIFICIO 9 DE JULIO",
-    "direccion": "9 DE JULIO 780",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 77222,
     "nombre": "SEÑAL U",
     "direccion": "",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 58470,
     "nombre": "INSTITUTO DE NEFROLOGIA Y HEMODIALISIS SRL",
     "direccion": "25 DE MAYO Nro: 760",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 74599,
     "nombre": "BARRIO MILITAR GUARNICION MENDOZA",
     "direccion": "9 DE JULIO 550",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 3989,
     "nombre": "HOTEL CERVANTES",
     "direccion": "AMIGORENA 65",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 72586,
     "nombre": "LIMONERO SAS MAGNOLIA",
     "direccion": "ARISTIDES VILLANUEVA 165",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 78372,
     "nombre": "ALMACEN DE PIZZAS",
     "direccion": "ARISTIDES VILLANUEVA 175",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 77031,
     "nombre": "GECOBIN SAS",
     "direccion": "ARISTIDES VILLANUEVA 189",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 77240,
     "nombre": "SARATUNGA SRL",
     "direccion": "ARISTIDES VILLANUEVA 294",
-    "nombreComercial": "BODEGÓN PIZERO"
+    "nombreComercial": "BODEGÓN PIZERO",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 50765,
     "nombre": "BANCO BBVA ARGENTINA S.A.",
     "direccion": "ARISTIDES VILLANUEVA 309",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 72416,
     "nombre": "BANCO MACRO SA",
     "direccion": "ARISTIDES VILLANUEVA 337",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 76808,
     "nombre": "ORIGINAL WINERY SA  REPUBLICA",
     "direccion": "ARISTIDES VILLANUEVA 373",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 44956,
     "nombre": "BANCO DE GALICIA Y BUENOS AIRES SAU",
     "direccion": "ARISTIDES VILLANUEVA 380",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 72334,
     "nombre": "EL CLUB DE LA MILANESA SIN CULPAS SAS",
     "direccion": "ARISTIDES VILLANUEVA 405",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 1606,
     "nombre": "FERRUCCIO SOPPELSA SRL",
     "direccion": "AV EMILIO CIVIT 2",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 7342,
     "nombre": "CIRCULO DE OFICIALES DE LA POLICIA DE MENDOZA",
     "direccion": "",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 56789,
     "nombre": "CARREFOUR",
     "direccion": "LAS HERAS 316",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 56829,
     "nombre": "CARREFOUR",
     "direccion": "JORGE A. CALLE 601",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 56828,
     "nombre": "CARREFOUR",
     "direccion": "SUIPACHA 556",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 74598,
     "nombre": "GOBIERNO DE MENDOZA - DIRECCION DE ADULTOS MAYORES ( HOGAR SANTA MARTA)",
     "direccion": "",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 71394,
     "nombre": "ROMAN, MAURICIO CEFERINO",
     "direccion": "BOULOGNE SUR MER 520 (MENDOZA TENIS CLUB)",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 66601,
     "nombre": "EL PATIO GRILL & WINES SAS",
     "direccion": "BOULOGNE SUR MER 788",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 74601,
     "nombre": "LICEO MILITAR GENERAL ESPEJO",
     "direccion": "BOLOUGNE SUR MER 2136",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "MAYOR A 10 T"
   },
   {
     "cuentaNumero": 39753,
     "nombre": "MELIS, GUILLERMO ORLANDO (LA CAMPANA)",
     "direccion": "BELGRANO 86",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 74609,
     "nombre": "INSTITUTO NACIONAL DEL AGUA",
     "direccion": "BELGRANO 210",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 72141,
     "nombre": "AGUA Y SANEAMIENTO MENDOZA SA- AYSAM",
     "direccion": "BELGRANO 920",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 69450,
     "nombre": "SUSHI CLUB SAN JUAN FOOD SAS",
     "direccion": "BELGRANO 1112",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 65810,
     "nombre": "MENDOZA FUNDACIONAL SA",
     "direccion": "BELTRAN 634",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 633,
     "nombre": "LABEL SOLUTIONS SRLPALERO IMPRESORES",
     "direccion": "BRASIL 144",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 50379,
     "nombre": "NUEVO PLAZA HOTEL MENDOZA SA",
     "direccion": "CHILE 1124",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 65705,
     "nombre": "SOFIA YANG, SAN TE",
     "direccion": "COLON 259",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 47460,
     "nombre": "ARCOS MENDOCINOS S A MC DONALDS",
     "direccion": "LAS HERAS 301",
-    "nombreComercial": "RESTAURANTE MC DONALDS"
+    "nombreComercial": "RESTAURANTE MC DONALDS",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 45637,
     "nombre": "ARCOS MENDOCINOS S A MC DONALDS",
     "direccion": "COLON 385",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 74612,
     "nombre": "DIRECCION PROVINCIAL DE VIALIDAD DE MENDOZA CW",
     "direccion": "LENCINAS S/N°",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 74631,
     "nombre": "CW LENCINAS Nro: 0 UNC FUNDACION INST TECNOLOG UNIVERSITARIO",
     "direccion": "",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 23916,
     "nombre": "CIRCULO SUBOF EJERC CW",
     "direccion": "LENCINAS 250",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 70768,
     "nombre": "12 COPAS SA",
     "direccion": "ESPEJO 501",
-    "nombreComercial": "RESTAURANTE DOCE COPAS"
+    "nombreComercial": "RESTAURANTE DOCE COPAS",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 74602,
     "nombre": "HOSPITAL DR CARLOS PEREYRA",
     "direccion": "ITUZAINGO 2831",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 30025,
     "nombre": "QUEBEC SA MAC KENZIE",
     "direccion": "ITUZAINGO 2930",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 70998,
     "nombre": "CENCOSUD SA VEA",
     "direccion": "JORGE A. CALLE 897",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "MAYOR A 10 T"
   },
   {
     "cuentaNumero": 42920,
     "nombre": "FUNDACION SAN ANDRES",
     "direccion": "JORGE A. ROCA 683",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "MAYOR A 10 T"
   },
   {
     "cuentaNumero": 63827,
     "nombre": "ANNA BISTRO",
     "direccion": "JUAN B. JUSTO 161 C.J.C. S.A.",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 59760,
     "nombre": "PAN DE VIDA S.R.L.",
     "direccion": "JUJUY 41",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 64670,
     "nombre": "AMOBLAMIENTO SEVILLA SA",
     "direccion": "",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 59404,
     "nombre": "DIMAGRAF SACIF",
     "direccion": "MONTECASEROS 1956",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 73453,
     "nombre": "ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS",
     "direccion": "MORON 27",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 8795,
     "nombre": "CIRCULO MEDICO DE MENDOZA",
     "direccion": "OLEGARIO V. ANDRADE 496",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 61545,
     "nombre": "OPERADORA DE ESTACIONES DE SERVICIO SA - OPESSA",
     "direccion": "PASO DE LOS ANDES 16",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 16492,
     "nombre": "SUPER VEA CENCOSUD SA",
     "direccion": "PASO DE LOS ANDES 82",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "MAYOR A 10 T"
   },
   {
     "cuentaNumero": 45925,
     "nombre": "BANCO SANTANDER RIO SA",
     "direccion": "PASO DE LOS ANDES 757",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 72895,
     "nombre": "HOSPITAL UNIVERSITARIO",
     "direccion": "PASO DE LOS ANDES 3051",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 1652,
     "nombre": "CLUB MENDOZA DE REGATAS PARQUE Nro: 250",
     "direccion": "",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 47388,
     "nombre": "CENCOSUD SA VEA",
     "direccion": "PATRICIAS MENDOCINAS 1730",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "MAYOR A 10 T"
   },
   {
     "cuentaNumero": 35796,
     "nombre": "SANTA INES",
     "direccion": "PERU 2464",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 70665,
     "nombre": "CEMAC SA KINGO",
     "direccion": "",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 3499,
     "nombre": "FALFER S.A.",
     "direccion": "SALTA 1753",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 75279,
     "nombre": "COCINAR SA",
     "direccion": "SAN MARTIN 195 Piso: PB Local: 01",
-    "nombreComercial": "COMO EN CASA"
+    "nombreComercial": "COMO EN CASA",
+    "horario": "FH"
   },
   {
     "cuentaNumero": 12943,
     "nombre": "INSTITUTO NACIONAL DE VITIVINICULTURA GOBIERNO DE LA NACION",
     "direccion": "SAN MARTIN 430",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 50120,
     "nombre": "AUTOMOVIL CLUB ARGENTINO ACA",
     "direccion": "SAN MARTIN 985",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 71569,
     "nombre": "CONTADURIA GENERAL DEL EJERCITO  EDIFICIO JUAN LELIO - COMANDO BRIGADA MONTAÑA VIII",
     "direccion": "SARMIENTO 60",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 34466,
     "nombre": "CENCOSUD SA",
     "direccion": "SANTIAGO DEL ESTERO 25",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "MAYOR A 10 T"
   },
   {
     "cuentaNumero": 28653,
     "nombre": "HOGAR DE REPOSO PARA ANCIANOS S.R.L.",
     "direccion": "SARGENTO CABRAL 368",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 63744,
     "nombre": "RESIDENCIA PRESTIGIO S A S",
     "direccion": "SOBREMONTE 545",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 700,
     "nombre": "TALLERES GRAFICOS SMOVIR LUIS ALBERTO SMOVIR ERNESTO ANTONIO SMOVIR EDUARDO ENR",
     "direccion": "SUIPACHA 299",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 56828,
     "nombre": "INC SA 06/04/2017",
     "direccion": "",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 65791,
     "nombre": "ALDO SRL",
     "direccion": "SUIPACHA 698",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
   },
   {
     "cuentaNumero": 74600,
     "nombre": "HOSPITAL LUIS C LAGOMAGGIORE (MINISTERIO DE SALUD)",
     "direccion": "TIMOTEO GORDILLO Nro: 0",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "MAYOR A 10 T"
   },
   {
     "cuentaNumero": 73921,
     "nombre": "MINISTERIO DE SALUD, DESARROLLO SOCIAL Y DEPORTES",
     "direccion": "VIDELA CASTILLO 2961",
-    "nombreComercial": ""
+    "nombreComercial": "",
+    "horario": "DH"
+  },
+  {
+    "cuentaNumero": 79868,
+    "nombre": "CONSORCIO AV ESPAÑA",
+    "direccion": "ESPAÑA 776",
+    "nombreComercial": "",
+    "horario": "FH"
   }
 ]

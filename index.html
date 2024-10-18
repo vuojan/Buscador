@@ -23,6 +23,7 @@
                 <th>Nombre</th>
                 <th>Dirección</th>
                 <th>Nombre de Fantasía</th>
+                <th>Horario</th>
             </tr>
         </thead>
         <tbody>
@@ -33,12 +34,25 @@
     <script src="script.js"></script>
     <script>
         if ('serviceWorker' in navigator) {
-            window.addEventListener('load', () => {
-                navigator.serviceWorker.register('service-worker.js')
-                    .then(reg => console.log('Service Worker registrado', reg))
-                    .catch(err => console.log('Error al registrar el Service Worker', err));
-            });
-        }
+        navigator.serviceWorker.register('service-worker.js')
+        .then(registration => {
+            registration.onupdatefound = () => {
+                const newWorker = registration.installing;
+                newWorker.onstatechange = () => {
+                    if (newWorker.state === 'installed') {
+                        if (navigator.serviceWorker.controller) {
+                            const updateNotification = confirm('Hay una nueva versión disponible. ¿Quieres actualizarla ahora?');
+                            if (updateNotification) {
+                                window.location.reload();
+                            }
+                        }
+                    }
+                };
+            };
+            console.log('Service Worker registrado', registration);
+        })
+        .catch(error => console.error('Error al registrar el Service Worker:', error));
+}
     </script>
 
 </body>

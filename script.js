@@ -11,8 +11,14 @@ fetch('data.json')
                 row.innerHTML = `
                     <td>${item['cuentaNumero']}</td>
                     <td>${item['nombre']}</td>
-                    <td>${item['direccion']}</td>
+                    <td>
+                        ${item['direccion']}
+                        <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item['direccion'] + ', Mendoza, Ciudad')}" target="_blank" class="map-button">
+                        <i class="fas fa-map-marker-alt"></i>
+                        </a>
+                    </td>
                     <td>${item['nombreComercial']}</td>
+                    <td>${item['horario']}</td>
                 `;
                 tbody.appendChild(row);
             });
