@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -9,50 +10,61 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="icon" href="icon512.png" type="image/png">
 </head>
-<body>
+<body style="display: flex; flex-direction: column; min-height: 100vh">
 
-    <h1>Datos del Comercios</h1>
-    <div class="search-container">
-        <input type="text" id="search" placeholder="Buscar...">
-        <i class="fas fa-search"></i>
+    <div style="flex: 1; margin: 20px"> <!-- Contenedor flexible para el contenido -->
+        <h1>Datos del Comercios</h1>
+        <div class="search-container">
+            <input type="text" id="search" placeholder="Buscar...">
+            <i class="fas fa-search"></i>
+        </div>
+        <table id="data-table">
+            <thead>
+                <tr>
+                    <th>Cta. N°</th>
+                    <th>Nombre</th>
+                    <th>Dirección</th>
+                    <th>Nombre de Fantasía</th>
+                    <th>Horario</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Las filas se agregarán aquí dinámicamente -->
+            </tbody>
+        </table>
     </div>
-    <table id="data-table">
-        <thead>
-            <tr>
-                <th>Cta. N°</th>
-                <th>Nombre</th>
-                <th>Dirección</th>
-                <th>Nombre de Fantasía</th>
-                <th>Horario</th>
-            </tr>
-        </thead>
-        <tbody>
-            <!-- Las filas se agregarán aquí dinámicamente -->
-        </tbody>
-    </table>
+
+    <footer style="background-color: #f9f9f9; padding: 20px 0; text-align: center; border-top: 2px solid slateblue; height: 50px;">
+        <p style="margin: 0; color: slateblue; font-weight: bold; font-size: 1.2em;">
+            © 2024 Geronimo Amuchastegui. All rights reserved.
+        </p>
+        <p style="margin: 5px 0 0; color: #555;">
+            Dirección de Higiene Urbana.
+        </p>
+    </footer>
 
     <script src="script.js"></script>
     <script>
         if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('service-worker.js')
-        .then(registration => {
-            registration.onupdatefound = () => {
-                const newWorker = registration.installing;
-                newWorker.onstatechange = () => {
-                    if (newWorker.state === 'installed') {
-                        if (navigator.serviceWorker.controller) {
-                            const updateNotification = confirm('Hay una nueva versión disponible. ¿Quieres actualizarla ahora?');
-                            if (updateNotification) {
-                                window.location.reload();
+            navigator.serviceWorker.register('service-worker.js')
+            .then(registration => {
+                registration.onupdatefound = () => {
+                    const newWorker = registration.installing;
+                    newWorker.onstatechange = () => {
+                        if (newWorker.state === 'installed') {
+                            if (navigator.serviceWorker.controller) {
+                                const updateNotification = confirm('Hay una nueva versión disponible. ¿Quieres actualizarla ahora?');
+                                if (updateNotification) {
+                                    window.location.reload();
+                                }
                             }
                         }
-                    }
+                    };
                 };
-            };
-            console.log('Service Worker registrado', registration);
-        })
-        .catch(error => console.error('Error al registrar el Service Worker:', error));
-}
+                console.log('Service Worker registrado', registration);
+            })
+            .catch(error => console.error('Error al registrar el Service Worker:', error));
+        }
     </script>
 
 </body>

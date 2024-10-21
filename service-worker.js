@@ -1,4 +1,4 @@
-const CACHE_NAME = 'v3';
+const CACHE_NAME = 'v4';
 const CACHE_ASSETS = [
     'index.html',
     'style.css',
@@ -20,20 +20,23 @@ self.addEventListener('install', (event) => {
 
 // Activación del Service Worker
 self.addEventListener('activate', (event) => {
-    const cacheWhitelist = [CACHE_NAME];
+    const cacheWhitelist = [CACHE_NAME]; // La lista de cachés que deseas mantener
     event.waitUntil(
         caches.keys().then((cacheNames) => {
             return Promise.all(
-                cacheNames
-                    .filter((cacheName) => !cacheWhitelist.includes(cacheName))
-                    .map((cacheName) => caches.delete(cacheName))
+                cacheNames.map((cacheName) => {
+                    // Eliminar cualquier caché que no esté en la whitelist
+                    if (!cacheWhitelist.includes(cacheName)) {
+                        return caches.delete(cacheName);
+                    }
+                })
             );
         })
         .then(() => {
             return self.clients.claim(); // Controlar las páginas abiertas inmediatamente
         })
         .catch((error) => {
-            console.error('Error during service worker activation:', error);
+            console.error('Error durante la activación del service worker:', error);
         })
     );
 });

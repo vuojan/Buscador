@@ -177,14 +177,14 @@
   {
     "cuentaNumero": "",
     "nombre": "CONSORCIO GRAND BOULOGNE",
-    "direccion": "",
+    "direccion": "BOLOUGNE SUR MER 241",
     "nombreComercial": "",
     "horario": "#N/A"
   },
   {
     "cuentaNumero": 79640,
     "nombre": "CONSORCIO PROP. EDIFICIO C CÍVICO",
-    "direccion": "",
+    "direccion": "AV. PELTIER 50",
     "nombreComercial": "",
     "horario": "FH"
   },
@@ -219,7 +219,7 @@
   {
     "cuentaNumero": 79847,
     "nombre": "EDIFICIO QUINTA PARK",
-    "direccion": "",
+    "direccion": "Olegario V. Andrade 406",
     "nombreComercial": "",
     "horario": "FH"
   },
@@ -303,7 +303,7 @@
   {
     "cuentaNumero": 76467,
     "nombre": "LA SALA MARIDAJES BUENAVIDA EMPREND.",
-    "direccion": "",
+    "direccion": "PERU 1136",
     "nombreComercial": "",
     "horario": "DH"
   },
@@ -359,14 +359,14 @@
   {
     "cuentaNumero": 79436,
     "nombre": "LOS CORIOTOS SAS",
-    "direccion": "",
+    "direccion": "ARISTIDES 372",
     "nombreComercial": "ROSWELL",
     "horario": "FH"
   },
   {
     "cuentaNumero": 72567,
     "nombre": "RUCULA Y TOMATITO",
-    "direccion": "",
+    "direccion": "PATRICIAS MENDOCINAS 515",
     "nombreComercial": "",
     "horario": "FH"
   },
@@ -702,7 +702,7 @@
   {
     "cuentaNumero": 44412,
     "nombre": "CORREO ARGENTINO",
-    "direccion": "",
+    "direccion": "AV. SAN MARTIN 678",
     "nombreComercial": "",
     "horario": "DH"
   },
@@ -1234,7 +1234,7 @@
   {
     "cuentaNumero": 7342,
     "nombre": "CIRCULO DE OFICIALES DE LA POLICIA DE MENDOZA",
-    "direccion": "",
+    "direccion": "BOULOGNE SUR MER 157",
     "nombreComercial": "",
     "horario": "DH"
   },
@@ -1262,7 +1262,7 @@
   {
     "cuentaNumero": 74598,
     "nombre": "GOBIERNO DE MENDOZA - DIRECCION DE ADULTOS MAYORES ( HOGAR SANTA MARTA)",
-    "direccion": "",
+    "direccion": "BOULOGNE SUR MER 361",
     "nombreComercial": "",
     "horario": "DH"
   },
@@ -1430,8 +1430,8 @@
   {
     "cuentaNumero": 64670,
     "nombre": "AMOBLAMIENTO SEVILLA SA",
-    "direccion": "",
-    "nombreComercial": "",
+    "direccion": "JUJUY 459",
+    "nombreComercial": "SEVILLA AMOBLAMIENTOS",
     "horario": "FH"
   },
   {
@@ -1486,7 +1486,7 @@
   {
     "cuentaNumero": 1652,
     "nombre": "CLUB MENDOZA DE REGATAS PARQUE Nro: 250",
-    "direccion": "",
+    "direccion": "AV. LAS PALMERAS S/N",
     "nombreComercial": "",
     "horario": "DH"
   },
@@ -1507,8 +1507,8 @@
   {
     "cuentaNumero": 70665,
     "nombre": "CEMAC SA KINGO",
-    "direccion": "",
-    "nombreComercial": "",
+    "direccion": "RIVADAVIA 285",
+    "nombreComercial": "KINGO",
     "horario": "DH"
   },
   {
