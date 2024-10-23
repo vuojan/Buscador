@@ -3,19 +3,13 @@ html, body {
     margin: 0; /* Elimina márgenes por defecto */
     display: flex; /* Flex en el body */
     flex-direction: column; /* Coloca los hijos en columna */
+    font-family: 'Montserrat', sans-serif; /* Fuente global */
 }
 
 .content {
     flex: 1; /* Permite que el div principal ocupe todo el espacio disponible */
-    display: flex; 
-    flex-direction: column; 
     padding: 20px; /* Agrega espacio interior para el contenido */
     box-sizing: border-box; /* Incluye el padding en el ancho total */
-    width: 100%;
-}
-
-body {
-    font-family: 'Montserrat', sans-serif;
 }
 
 h2 {
@@ -37,23 +31,31 @@ h3 {
 #search {
     width: 100%; /* Ajusta el ancho al 100% */
     max-width: 300px; /* Ancho máximo del campo de búsqueda */
-    padding: 10px 40px 10px 10px; /* Añade espacio a la derecha para el ícono */
+    padding: 10px 40px 10px 40px; /* Espacio a la derecha para el ícono */
     border: 1px solid #ddd;
     border-radius: 5px;
     font-size: 16px;
+    box-sizing: border-box; /* Asegura que el padding no afecte el ancho total */
 }
 
 .search-container i {
     position: absolute;
-    right: 10px; /* Mueve el ícono a la derecha */
+    right: 10px; /* Coloca el ícono a la derecha del input */
     top: 50%;
     transform: translateY(-50%);
     color: #aaa; /* Color del ícono */
     font-size: 16px; /* Tamaño del ícono */
+    pointer-events: none; /* Evita que el ícono capture eventos de clic */
+}
+
+
+/* Contenedor para la tabla */
+.table-container {
+    overflow-x: auto; /* Permite desplazamiento horizontal */
 }
 
 table {
-    width: 100%;
+    width: 100%; /* Asegura que la tabla ocupe el 100% del ancho */
     border-collapse: collapse;
     margin: 20px 0;
 }
@@ -68,10 +70,8 @@ th, td {
     padding: 10px;
     border: 1px solid #ddd;
     text-align: left;
-}
-
-th {
-    background-color: #f2f2f2;
+    max-width: 150px; /* Ajusta el ancho máximo de las celdas si es necesario */
+    word-wrap: break-word; /* Permite que el texto se ajuste */
 }
 
 footer {
@@ -79,6 +79,5 @@ footer {
     padding: 20px 0; 
     text-align: center; 
     border-top: 2px solid slateblue; 
-    height: 50px; 
-    width: 100%; 
+    width: 100%; /* Asegura que el footer ocupe el 100% del ancho */
 }
