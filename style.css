@@ -1,6 +1,31 @@
+html, body {
+    height: 100%; /* Asegura que el body ocupe el 100% de la altura */
+    margin: 0; /* Elimina márgenes por defecto */
+    display: flex; /* Flex en el body */
+    flex-direction: column; /* Coloca los hijos en columna */
+}
+
+.content {
+    flex: 1; /* Permite que el div principal ocupe todo el espacio disponible */
+    display: flex; 
+    flex-direction: column; 
+    padding: 20px; /* Agrega espacio interior para el contenido */
+    box-sizing: border-box; /* Incluye el padding en el ancho total */
+    width: 100%;
+}
+
 body {
     font-family: 'Montserrat', sans-serif;
-    margin: 0;
+}
+
+h2 {
+    color: slateblue;
+    font-weight: 600;
+}
+
+h3 {
+    color: darkslategray;
+    font-weight: 500;
 }
 
 .search-container {
@@ -10,7 +35,8 @@ body {
 }
 
 #search {
-    width: 300px; /* Aumenta el ancho del campo de búsqueda */
+    width: 100%; /* Ajusta el ancho al 100% */
+    max-width: 300px; /* Ancho máximo del campo de búsqueda */
     padding: 10px 40px 10px 10px; /* Añade espacio a la derecha para el ícono */
     border: 1px solid #ddd;
     border-radius: 5px;
@@ -32,12 +58,10 @@ table {
     margin: 20px 0;
 }
 
-table thead tr th{
-
+table thead tr th {
     background-color: slateblue;
     color: white;
     font-weight: bold;
-
 }
 
 th, td {
@@ -50,16 +74,11 @@ th {
     background-color: #f2f2f2;
 }
 
-.map-button {
-    margin-left: 8px;
-    color: #007BFF; /* Cambia el color según tu preferencia */
-    text-decoration: none;
-}
-
-.map-button:hover {
-    color: #0056b3; /* Color al pasar el ratón */
-}
-
-.map-button i {
-    font-size: 1.2em; /* Tamaño del icono */
+footer {
+    background-color: #f9f9f9; 
+    padding: 20px 0; 
+    text-align: center; 
+    border-top: 2px solid slateblue; 
+    height: 50px; 
+    width: 100%; 
 }
