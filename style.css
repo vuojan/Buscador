@@ -26,15 +26,16 @@ h3 {
     position: relative;
     display: inline-block; 
     margin-bottom: 20px;
+    width: 100%;
+    max-width: 400px;
 }
 
 #search {
-    width: 100%; /* Ajusta el ancho al 100% */
-    max-width: 300px; /* Ancho máximo del campo de búsqueda */
-    padding: 10px 40px 10px 40px; /* Espacio a la derecha para el ícono */
+    width: 100%;
+    padding: 10px; /* Espacio a la derecha para el ícono */
     border: 1px solid #ddd;
     border-radius: 5px;
-    font-size: 16px;
+    font-size: 16px; 
     box-sizing: border-box; /* Asegura que el padding no afecte el ancho total */
 }
 

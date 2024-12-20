@@ -12,10 +12,20 @@
 </head>
 <body>
 
+    <div id="login-container">
+        <h2>Acceso a la aplicación</h2>
+        <form id="login-form">
+            <input type="text" id="username" placeholder="Usuario" required>
+            <input type="password" id="password" placeholder="Contraseña" required>
+            <button type="submit">Iniciar sesión</button>
+        </form>
+        <p id="login-error" style="color: red; display: none;">Credenciales incorrectas. Intente de nuevo.</p>
+    </div>
+
     <div class="content">
         <h1>Datos del Comercios</h1>
         <h2>Filtrar por N° de Cuenta, Nombre o Dirección</h2>
-        <h3>App Ver. 1.1</h3>
+        <h3>App Ver. 1.2</h3>
         <div class="search-container">
             <input type="text" id="search" placeholder="Buscar...">
             <i class="fas fa-search"></i>
