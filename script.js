@@ -49,8 +49,9 @@ document.addEventListener('DOMContentLoaded', () => {
                                 <i class="fas fa-map-marker-alt"></i>
                                 </a>
                             </td>
-                            <td>${item['nombreComercial']}</td>
                             <td>${item['horario']}</td>
+                            <td>${item['responsable']}</td>
+                            <td>${item['telefono']}</td>
                         `;
                         tbody.appendChild(row);
                     });
