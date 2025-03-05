@@ -137,7 +137,7 @@
   },
   {
     "cuentaNumero": 78601,
-    "nombre": "CONSORCIO EDIFICIO H FRANCISCO MOYANO N.º 1551",
+    "nombre": "CONSORCIO EDIFICIO H FRANCISCO MOYANO 1551",
     "direccion": "FRANCISCO MOYANO N.º 1551",
     "horario": "DH",
     "responsable": "AGUSTIN MANUEL ALVAREZ",
@@ -322,7 +322,7 @@
   {
     "cuentaNumero": 79436,
     "nombre": "LOS CORIOTOS SAS  - ROSWELL",
-    "direccion": "ARISTIDES 372",
+    "direccion": "ARISTIDES VILLANUEVA 372",
     "horario": "FH",
     "responsable": "MAJUL FAJARDO JUAN IGNACIO",
     "telefono": "155 26-2024"
@@ -338,7 +338,7 @@
   {
     "cuentaNumero": 71926,
     "nombre": "SABOR NORTEŃO",
-    "direccion": "R. DE ESCALADA Nº2093",
+    "direccion": "R. DE ESCALADA 2093",
     "horario": "FH",
     "responsable": "PAREDES SANCHEZ SANTOS",
     "telefono": 4203158
@@ -522,7 +522,7 @@
   {
     "cuentaNumero": 78085,
     "nombre": "CHACHINGO DALVIAN",
-    "direccion": "CERRO CRISTO52 7 COLORES Nro: 2009",
+    "direccion": "CERRO CRISTO52 7 COLORES 2009",
     "horario": "FH",
     "responsable": "SANCE LUIS PABLO",
     "telefono": 156539137
@@ -586,7 +586,7 @@
   {
     "cuentaNumero": 79446,
     "nombre": "SUBWAY - DA.MAS SAS",
-    "direccion": "9 DE julio 0917",
+    "direccion": "9 DE JULIO 917",
     "horario": "DH",
     "responsable": "DIAS DANIEL SERGIO",
     "telefono": 155754491
@@ -618,7 +618,7 @@
   {
     "cuentaNumero": 1327,
     "nombre": "BANCO MACRO SA",
-    "direccion": "9 DE julio 1401",
+    "direccion": "9 DE JULIO 1401",
     "horario": "FH",
     "responsable": "no hay contacto",
     "telefono": ""
@@ -642,7 +642,7 @@
   {
     "cuentaNumero": 47082,
     "nombre": "BANCO SUPERVIELLE",
-    "direccion": "9 DE julio 1265",
+    "direccion": "9 DE JULIO 1265",
     "horario": "FH",
     "responsable": "VERA DANIEL HUGO",
     "telefono": 4217438
@@ -674,7 +674,7 @@
   {
     "cuentaNumero": 79240,
     "nombre": "CONSORCIO 25 DE MAYO \"TORRE LAUREANA",
-    "direccion": "25 DE mayo 1229",
+    "direccion": "25 DE MAYO 1229",
     "horario": "FH",
     "responsable": "ISGRO MESQUIDA MARIA BETANIA",
     "telefono": 156642693
@@ -1178,7 +1178,7 @@
   {
     "cuentaNumero": 14394,
     "nombre": "CONSORCIO EDIFICIO 9 DE JULIO",
-    "direccion": "9 DE julio 0780",
+    "direccion": "9 DE JULIO 780",
     "horario": "FH",
     "responsable": "VARO ALEJANDRO JAVIER",
     "telefono": 156808811
@@ -1194,7 +1194,7 @@
   {
     "cuentaNumero": 58470,
     "nombre": "INSTITUTO DE NEFROLOGIA Y HEMODIALISIS SRL",
-    "direccion": "25 DE mayo 0760",
+    "direccion": "25 DE MAYO 760",
     "horario": "FH",
     "responsable": "sin contacto",
     "telefono": ""
@@ -1202,7 +1202,7 @@
   {
     "cuentaNumero": 74599,
     "nombre": "BARRIO MILITAR GUARNICION MENDOZA",
-    "direccion": "9 DE julio 0550",
+    "direccion": "9 DE JULIO 550",
     "horario": "DH",
     "responsable": "sin contacto",
     "telefono": ""
@@ -1290,7 +1290,7 @@
   {
     "cuentaNumero": 1606,
     "nombre": "FERRUCCIO SOPPELSA SRL",
-    "direccion": "AV EMILIO CIVIT 2",
+    "direccion": "AV. EMILIO CIVIT 2",
     "horario": "DH",
     "responsable": "sin contacto",
     "telefono": ""
@@ -1354,7 +1354,7 @@
   {
     "cuentaNumero": 66601,
     "nombre": "EL PATIO GRILL & WINES SAS",
-    "direccion": "B SUR MER 788 - PATIO DE JESUS MARIA",
+    "direccion": "BOULOGNE SUR MER 788 - PATIO DE JESUS MARIA",
     "horario": "DH",
     "responsable": "sin contacto",
     "telefono": ""
@@ -1746,7 +1746,7 @@
   {
     "cuentaNumero": 77507,
     "nombre": "LOS PANCHOS VILLA DE ARISTIDES",
-    "direccion": "VILLANUEVA 658",
+    "direccion": "ARISTIDES VILLANUEVA 658",
     "horario": "FH",
     "responsable": "PORFIRI MAXIMILIANO ANDRES",
     "telefono": 2615452641
