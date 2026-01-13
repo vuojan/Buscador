@@ -41,17 +41,17 @@ document.addEventListener('DOMContentLoaded', () => {
                     filteredData.forEach(item => {
                         const row = document.createElement('tr');
                         row.innerHTML = `
-                            <td>${item['cuentaNumero']}</td>
-                            <td>${item['nombre']}</td>
                             <td>
-                                ${item['direccion']}
+                                ${item['DIRECCIÓN']}
                                 <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item['direccion'] + ', Mendoza, Ciudad')}" target="_blank" class="map-button">
                                 <i class="fas fa-map-marker-alt"></i>
                                 </a>
                             </td>
-                            <td>${item['horario']}</td>
-                            <td>${item['responsable']}</td>
-                            <td>${item['telefono']}</td>
+                            <td>${item['NOMBRE']}</td>
+                            <td>${item['SECCION']}</td>
+                            <td>${item['M']}</td>
+                            <td>${item['T']}</td>
+                            <td>${item['N']}</td>
                         `;
                         tbody.appendChild(row);
                     });
