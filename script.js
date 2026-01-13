@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Credenciales de autenticación
-    const username = "higiene";  // Usuario de ejemplo
-    const password = "dic2024";  // Contraseña de ejemplo
+    const username = "Higiene";  // Usuario de ejemplo
+    const password = "2025";  // Contraseña de ejemplo
 
     const loginForm = document.getElementById('login-form');
     const loginContainer = document.getElementById('login-container');
@@ -65,10 +65,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 searchInput.addEventListener('input', () => {
                     const query = searchInput.value.toLowerCase();
                     const filteredData = data.filter(item => 
-                        item.nombre.toLowerCase().includes(query) ||
-                        item.direccion.toLowerCase().includes(query) ||
-                        (item['cuentaNumero'] && item['cuentaNumero'].toString().toLowerCase().includes(query)) ||
-                        (item['nombreComercial'] && item['nombreComercial'].toLowerCase().includes(query))
+                        item['NOMBRE'].toLowerCase().includes(query) ||
+                        item['DIRECCIÓN'].toLowerCase().includes(query)
                     );
                     renderTable(filteredData);
                 });
